@@ -5,13 +5,13 @@ class Loader {
         settingModalPlaceholder: '.setting-modal'
     }
     statePaths = {
-        headerPath: '/LoLguess/components/header.html',
-        footerPath: '/LoLguess/components/footer.html',
-        settingModalPath: '/LoLguess/components/setting-modal.html'
+        headerPath: this.basepath + 'components/header.html',
+        footerPath: this.basepath + 'components/footer.html',
+        settingModalPath: this.basepath + 'components/setting-modal.html'
     }
 
-    constructor() {
-        
+    constructor(basepath='./') {
+        this.basepath = basepath;
     }
 
     async loadComponent(selector, path) {
