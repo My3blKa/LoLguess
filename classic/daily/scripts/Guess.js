@@ -63,8 +63,6 @@ class Guess {
             return !isSaved;
         })
 
-        console.log(this.championsNamesArray)
-
         this.targetChampion = this.getDailyChampion(this.championsData)
         this.championSelected = 0;
 
@@ -83,13 +81,7 @@ class Guess {
         this.classicQuoteID = JSON.parse(localStorage.getItem('classicDailyQuoteID'))
         this.classicSpellID = JSON.parse(localStorage.getItem('classicDailySpellID'))
         this.classicSplashID = JSON.parse(localStorage.getItem('classicDailySplashID'))
-
-        console.log(this.targetChampionQuoteData)
-
-        console.log(this.championsData)
-        console.log(this.targetChampion)
     }
-    // Ну угадай йопта
     getRandomNumber = (min, max) => {
         return Math.floor(Math.random() * (max - min) + min);
     }

@@ -67,15 +67,8 @@ class Guess {
             return !isSaved;
         })
 
-        console.log(this.championsNamesArray)
-
-
-
         this.targetChampion = this.getTargetChampion(this.championsData)
         this.championSelected = 0;
-
-        console.log(localStorage.getItem('classicEndlessChampion'))
-        console.log(this.targetChampion)
 
         this.targetChampionData = await fetch(`https://ddragon.leagueoflegends.com/cdn/${this.latestVersion}/data/ru_RU/champion/${this.targetChampion.championId}.json`).then(r => r.json())
         this.targetChampionSpellData = this.targetChampionData.data[this.targetChampion.championId].spells.map(spell => ({ id: spell.id, name: spell.name }))
@@ -91,13 +84,7 @@ class Guess {
         this.classicQuoteID = JSON.parse(localStorage.getItem('classicEndlessQuoteID'))
         this.classicSpellID = JSON.parse(localStorage.getItem('classicEndlessSpellID'))
         this.classicSplashID = JSON.parse(localStorage.getItem('classicEndlessSplashID'))
-
-        console.log(this.targetChampionQuoteData)
-
-        console.log(this.championsData)
-        console.log(this.targetChampion)
     }
-    // Ну угадай йопта
     getRandomNumber = (min, max) => {
         return Math.floor(Math.random() * (max - min) + min);
     }
