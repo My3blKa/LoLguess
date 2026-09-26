@@ -4,14 +4,12 @@ class Loader {
         footerPlaceholder: '.footer-placeholder',
         settingModalPlaceholder: '.setting-modal'
     }
-    statePaths = {
-        headerPath: this.basepath + 'components/header.html',
-        footerPath: this.basepath + 'components/footer.html',
-        settingModalPath: this.basepath + 'components/setting-modal.html'
-    }
 
-    constructor(basepath='./') {
+    constructor(basepath = './') {
         this.basepath = basepath;
+        this.headerPath = `${this.basepath}components/header.html`
+        this.footerPath = `${this.basepath}components/footer.html`
+        this.settingModalPath = `${this.basepath}components/setting-modal.html`
     }
 
     async loadComponent(selector, path) {
@@ -22,9 +20,9 @@ class Loader {
     }
 
     async bindEvents() {
-        await this.loadComponent(this.stateClasses.headerPlaceholder,  this.statePaths.headerPath);
-        await this.loadComponent(this.stateClasses.footerPlaceholder,  this.statePaths.footerPath);
-        await this.loadComponent(this.stateClasses.settingModalPlaceholder,  this.statePaths.settingModalPath);
+        await this.loadComponent(this.stateClasses.headerPlaceholder, this.headerPath);
+        await this.loadComponent(this.stateClasses.footerPlaceholder, this.footerPath);
+        await this.loadComponent(this.stateClasses.settingModalPlaceholder, this.settingModalPath);
     }
 }
 
