@@ -50,7 +50,7 @@ class Guess {
         this.versionData = await this.versions.json();
         this.latestVersion = this.versionData[0];
 
-        this.champions = await fetch('../../../data/champions_ru.json')
+        this.champions = await fetch('../../data/champions_ru.json')
         this.championsData = await this.champions.json();
         this.championsNamesArray = this.championsData.map(champ => ({ name: champ.championName, searchName: champ.championName, id: champ.championId })).sort((a, b) => a.name.localeCompare(b.name, 'ru'));
         this.championsNamesArray.map(champ => {
@@ -72,7 +72,7 @@ class Guess {
         this.targetChampionSpellData = this.targetChampionData.data[this.targetChampion.championId].spells.map(spell => ({ id: spell.id, name: spell.name }))
         this.targetChampionSplashData = this.targetChampionData.data[this.targetChampion.championId].skins.map(skin => ({ id: skin.num, name: skin.name })).filter(skin => !skin.name.includes(' – '))
 
-        this.targetChampionsQuoteData = await fetch('../../../data/quotes.json').then(r => r.json());
+        this.targetChampionsQuoteData = await fetch('../../data/quotes.json').then(r => r.json());
         this.targetChampionQuoteData = this.targetChampionsQuoteData[this.targetChampion.championId].quotes.map(quote => ({ audioRU: quote.audio_ru, textRU: quote.text_ru }))
 
         this.hints.setLocalStorageHints('classicDailyQuoteID', this.getRandomNumber(0, this.targetChampionQuoteData.length - 1))
