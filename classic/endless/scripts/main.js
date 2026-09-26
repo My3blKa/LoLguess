@@ -1,4 +1,4 @@
-import Loader from './Loader.js';
+import Loader from '../../../scripts/Loader.js';
 import Header from './Header.js';
 import Guess from './Guess.js';
 
