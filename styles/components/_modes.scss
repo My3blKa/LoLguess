@@ -1,0 +1,70 @@
+@use '../helpers/' as *;
+
+.modes {
+    &__inner {
+        padding-bottom: fluid(50, 40);
+        &--end {
+            padding-bottom: 0;
+        }
+    }
+
+    &__list {
+        display: flex;
+        column-gap: fluid(80, 30);
+        justify-content: center;
+        padding: rem(8);
+    }
+
+    &__item {
+        position: relative;
+        display: block;
+        cursor: pointer;
+        border: rem(2) solid var(--color-text);
+        border-radius: rem(8);
+        padding: rem(4);
+
+        transition: var(--transition-duration);
+
+        & svg {
+            @include square(#{fluid(64, 48)})
+        }
+
+        &.not-guessed {
+            color: var(--color-accent-grey);
+            border-color: var(--color-accent-grey);
+        }
+
+        &-types {
+            position: absolute;
+            left: 53%;
+            translate: -50% 0%;
+            bottom: -70%;
+
+            display: flex;
+            column-gap: rem(12);
+            align-items: center;
+            @include hide;
+
+            & svg path {
+                transition: var(--transition-duration);
+            }
+        }
+
+        &-type {
+            font-size: rem(12);
+        }
+
+        @include hover {
+            & svg {
+                color: var(--color-white);
+                transition: var(--transition-duration);
+            }
+
+            border-color: var(--color-white);
+
+            .modes__item-types {
+                @include show;
+            }
+        }
+    }
+}

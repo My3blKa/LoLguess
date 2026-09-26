@@ -1,0 +1,130 @@
+@use '../helpers/' as *;
+
+.hints {
+    padding-block: rem(20);
+
+    & .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    &__inner {
+        padding-block: fluid(40, 20);
+        background-color: var(--color-black-75);
+        border-radius: fluid(16, 12);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        padding: fluid(30, 15);
+        row-gap: fluid(20, 10);
+        width: fluid(600, 330);
+    }
+
+    &__title {
+        max-width: inherit;
+    }
+
+    &__list {
+        display: flex;
+        justify-content: center;
+        column-gap: rem(20);
+    }
+
+    &__item {
+        display: flex;
+        flex-direction: column;
+        font-size: fluid(12, 10);
+        align-items: center;
+
+        text-align: center;
+        row-gap: rem(12);
+
+        &.is-disabled {
+            color: var(--color-accent-grey)
+        }
+    }
+
+    &__btn {
+
+        &:not(.is-disabled) {
+            color: var(--color-text-85);
+            animation: unlockHint 0.5s ease forwards;
+        }
+
+
+        &__tooltip {
+            color: var(--color-accent-grey);
+        }
+    }
+
+
+    &__quote-hint-box,
+    &__spell-hint-box,
+    &__splash-hint-box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: var(--color-text-35);
+        padding: fluid(16, 8);
+        border-radius: fluid(10, 6);
+
+        &.is-hidden {
+            max-height: 0px;
+            display: none;
+            @include hide;
+        }
+    }
+
+    &__quote {
+        &-audio {
+            background: none;
+            border: none;
+
+
+            & img {
+                @include square(#{fluid(48, 32)});
+            }
+        }
+
+        &-hint {
+            text-align: center;
+        }
+
+    }
+
+    &__spell {
+        &-hint-box {
+            padding: fluid(24, 16);
+        }
+
+        &-img {
+            border-radius: rem(8);
+            border: rem(2) solid var(--color-text);
+        }
+    }
+
+    &__splash-hint {
+        &-box {
+            position: relative;
+            width: fluid(300, 200);
+            height: fluid(300, 200);
+            overflow: hidden;
+            border-radius: rem(8);
+            border: rem(2) solid var(--color-text);
+            padding: 0;
+
+            & canvas {
+                width: rem(1215);
+                height: rem(717);
+                position: absolute;
+                overflow: hidden;
+                top: 50%;
+                left: 50%;
+                translate: -50% -50%;
+            }
+        }
+    }
+}

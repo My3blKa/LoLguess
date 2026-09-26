@@ -1,0 +1,38 @@
+@use '../helpers/' as *;
+
+.button {
+    border: rem(1) solid var(--color-text-85);
+    background-color: var(--color-text-85);
+    color: var(--color-white);
+
+    padding: rem(10) rem(16);
+    border-radius: fluid(6, 4);
+
+    @include hover {
+        background-color: transparent;
+        transition: all .25s;
+    }
+
+    &--lang {
+        padding: 0;
+        border: none;
+        background-color: transparent;
+        position: relative;
+
+        @include hover {
+            opacity: 0.8;
+        }
+    }
+
+    &--icon {
+        padding: 0;
+        border: none;
+        background-color: transparent;
+        transition: rotate .35s, opacity .25s;
+
+        @include hover {
+            opacity: 0.7;
+            rotate: 90deg;
+        }
+    }
+}

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOLGuess | Home</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <script src="/scripts/main.js" type="module" defer></script>
+</head>
+
+<body>
+    <div class="header-placeholder"></div>
+    <main class="main">
+        <section class="game-mods">
+            <div class="game-mods__inner container">
+                <h1 class="game-mods__title">Выберите тип игры</h1>
+                <ul class="game-mods__list">
+                    <li class="game-mods__item">
+                        <div class="game-mods__item-title-box">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="none"
+                                viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                                <path stroke-linecap="round" stroke-linejoin="round"
+                                    d="M9.879 7.519c1.171-1.025 3.071-1.025 4.242 0 1.172 1.025 1.172 2.687 0 3.712-.203.179-.43.326-.67.442-.745.361-1.45.999-1.45 1.827v.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 5.25h.008v.008H12v-.008Z" />
+                            </svg>
+                            <h2 class="game-mods__item-title">Классика</h2>
+                        </div>
+                        <p class="game-mods__item-description">Классический и всем знакомый режим игры угадывания
+                            чемпиона LOL по основным характеристикам
+                        </p>
+                        <div class="game-mods__type-box">
+                            <a href="/classic/daily" class="game-mods__type-btn button">Ежедневный</a>
+                            <a href="/classic/endless" class="game-mods__type-btn button">Бесконечный</a>
+                        </div>
+                    </li>
+                    <li class="game-mods__item">
+                        <div class="game-mods__item-title-box">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256">
+                                <rect width="48" height="48" fill="none" />
+                                <path
+                                    d="M108,144H40a8,8,0,0,1-8-8V72a8,8,0,0,1,8-8h60a8,8,0,0,1,8,8v88a40,40,0,0,1-40,40"
+                                    fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="16" />
+                                <path
+                                    d="M224,144H156a8,8,0,0,1-8-8V72a8,8,0,0,1,8-8h60a8,8,0,0,1,8,8v88a40,40,0,0,1-40,40"
+                                    fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="16" />
+                            </svg>
+                            <h2 class="game-mods__item-title">Цитата</h2>
+                        </div>
+                        <p class="game-mods__item-description">В этом режиме вам предстоит угадать чемпиона из League of
+                            Legends по одной его цитате
+                        </p>
+                        <div class="game-mods__type-box">
+                            <a href="/quote/daily" class="game-mods__type-btn button">Ежедневный</a>
+                            <a href="/quote/endless" class="game-mods__type-btn button">Бесконечный</a>
+                        </div>
+                    </li>
+                    <li class="game-mods__item">
+                        <div class="game-mods__item-title-box">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256">
+                                <rect width="256" height="256" fill="none" />
+                                <polygon points="160 16 144 96 208 120 96 240 112 160 48 136 160 16" fill="none"
+                                    stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="16" />
+                            </svg>
+                            <h2 class="game-mods__item-title">Умение</h2>
+                        </div>
+                        <p class="game-mods__item-description">Режим угадывания героя по одному его умению
+                        </p>
+                        <div class="game-mods__type-box">
+                            <a href="/spell/daily" class="game-mods__type-btn button">Ежедневный</a>
+                            <a href="/spell/endless" class="game-mods__type-btn button">Бесконечный</a>
+                        </div>
+                    </li>
+                    <li class="game-mods__item">
+                        <div class="game-mods__item-title-box">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="48" height="48">
+                                <rect width="256" height="256" fill="none" />
+                                <rect x="40" y="40" width="176" height="176" rx="8" fill="none" stroke="currentColor"
+                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                                <circle cx="96" cy="96" r="16" fill="none" stroke="currentColor" stroke-linecap="round"
+                                    stroke-linejoin="round" stroke-width="16" />
+                                <path d="M56.69,216,166.34,106.34a8,8,0,0,1,11.32,0L216,144.69" fill="none"
+                                    stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="16" />
+                            </svg>
+                            <h2 class="game-mods__item-title">Сплеш-арт</h2>
+                        </div>
+                        <p class="game-mods__item-description">Угадай чемпиона из League of Legends используя фрагмент
+                            сплеш-арта
+                        </p>
+                        <div class="game-mods__type-box">
+                            <a href="/splash/daily" class="game-mods__type-btn button">Ежедневный</a>
+                            <a href="/splash/endless" class="game-mods__type-btn button">Бесконечный</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
+    </main>
+    <div class="footer-placeholder"></div>
+    <div class="setting-modal"></div>
+</body>
+
+</html>

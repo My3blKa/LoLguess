@@ -1,0 +1,22 @@
+@use '../helpers/' as *;
+
+.footer {
+    padding-block: fluid(60, 20);
+    margin-top: auto;
+
+    &__inner {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        & span {
+            font-size: rem(12);
+            opacity: 0.5;
+        }
+    }
+    &__list {
+        display: flex;
+        align-items: center;
+        column-gap: fluid(60, 20);
+    }
+}

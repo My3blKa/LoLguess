@@ -1,0 +1,29 @@
+@use '../helpers' as *;
+
+:root {
+    --color-white: #ffffff;
+    --color-text: #c4b8e0;
+    --color-text-85: rgba(196, 184, 224, 0.875);
+    --color-text-35: rgba(196, 184, 224, 0.35);
+
+    --color-black: #161616;
+    --color-black-75: rgba(10, 8, 20, 0.75);
+
+    --color-accent-grey: #5c5c5c;
+    --color-grey-15: rgba(92, 92, 92, 0.15);
+    --color-grey-25: rgba(88, 88, 88, 0.25);
+
+    --color-accent-green: #06a700;
+    --color-accent-yellow: rgb(167, 109, 0);
+    --color-accent-red: rgb(167, 0, 0);
+
+    --color-accent-primary: #9B4DFF;
+    --color-accent-secondary: #F0C060;
+
+    --font-family-base: "Inter", sans-serif;
+
+    --container-width: #{rem(1400)};
+    --container-padding-x: #{rem(15)};
+
+    --transition-duration: 0.25s;
+}

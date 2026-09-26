@@ -1,0 +1,62 @@
+@use '../helpers' as *;
+
+.header {
+    padding-block: rem(30);
+
+    &__inner {
+        position: relative;
+        display: flex;
+        column-gap: fluid(100, 50);
+        align-items: center;
+        justify-content: center;
+    }
+
+    &__logo {
+        font-size: fluid(90, 40);
+        font-family: "Cinzel";
+        font-weight: 700;
+        color: var(--color-accent-secondary);
+    }
+
+    &__settings-btn {
+        @include square(#{fluid(64, 40)});
+
+        & svg {
+            @include square(#{fluid(64, 40)});
+        }
+
+        @include hover {
+            & svg {
+                rotate: 90deg;
+            }
+        }
+    }
+
+    &__lang {
+        &-btn {
+            padding: rem(4) rem(12);
+            border: rem(1) solid var(--color-black);
+
+            background-color: var(--color-accent-grey);
+
+            &:first-child {
+                border-radius: rem(20) 0 0 rem(20);
+            }
+
+            &:last-child {
+                border-radius: 0 rem(20) rem(20) 0;
+            }
+
+            &.is-active {
+                background-color: var(--color-accent-secondary);
+                color: var(--color-black);
+            }
+        }
+
+        &-btn-box {
+            display: flex;
+            border-radius: rem(20);
+            overflow: hidden;
+        }
+    }
+}

@@ -1,0 +1,49 @@
+@use '../helpers' as *;
+
+.finish {
+    padding-block: rem(60);
+
+    &.is-hidden {
+        display: none;
+        @include hide();
+    }
+
+    & .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    &__inner {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: fluid(750, 300);
+        padding: fluid(64, 48);
+        background-color: var(--color-black-75);
+        border-radius: fluid(16, 12);
+        row-gap: fluid(28, 16);
+    }
+
+    &__this-champ {
+        display: flex;
+        align-items: center;
+        column-gap: fluid(24, 16);
+    }
+
+    &__next-champ-timer {
+        color: var(--color-white);
+
+        &-box {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            row-gap: fluid(16, 12);
+        }
+    }
+
+    &__utc {
+        font-size: fluid(16, 12);
+        color: var(--color-accent-grey);
+    }
+}

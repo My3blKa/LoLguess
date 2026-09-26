@@ -1,0 +1,92 @@
+@use '../helpers/' as *;
+
+.guess {
+    padding-block: rem(40);
+
+    & .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        row-gap: fluid(40, 24);
+    }
+
+    &__surrender-btn {
+        justify-self: center;
+
+        &.is-hidden {
+            display: none;
+            @include hide();
+        }
+    }
+
+    &__search {
+        position: relative;
+    }
+
+    &__dropdown {
+        &-list {
+            background-color: var(--color-black-75);
+            max-height: rem(420);
+            width: rem(300);
+            position: absolute;
+            z-index: 2;
+            overflow-y: auto;
+
+            top: 90%;
+
+            transition: 0.2s;
+
+            &::-webkit-scrollbar {
+                background-color: var(--color-primary-accent);
+            }
+
+            &.is-hidden {
+                @include hide();
+                transition: 0.2s;
+            }
+        }
+
+        &-item {
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            column-gap: rem(18);
+            padding: rem(10);
+            transition: var(--transition-duration);
+
+            font-size: rem(20);
+
+            transition: none;
+
+            &.is-focused {
+                background-color: var(--color-grey-25);
+            }
+
+            @include hover {
+                background-color: var(--color-grey-25);
+
+            }
+
+            &-not-found {
+                text-align: center;
+                padding: rem(10);
+                font-size: rem(16);
+            }
+
+            &:nth-child(1) {
+                padding-top: rem(20)
+            }
+        }
+    }
+
+    &__input {
+        width: rem(300);
+        z-index: 5;
+        position: relative;
+
+        &.is-hidden {
+            @include hide();
+            display: none;
+        }
+    }
+}

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOLGuess | Classic daily</title>
+    <link rel="stylesheet" href="/styles/main.css">
+    <script src="/quote/daily/scripts/main.js" type="module" defer></script>
+</head>
+
+<body>
+    <div class="header-placeholder"></div>
+    <main class="main">
+        <section class="modes">
+            <div class="container modes__inner">
+                <ul class="modes__list">
+                    <li class="modes__item not-guessed" data-js-modes-classic>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="none" viewBox="0 0 24 24"
+                            stroke-width="1.5" stroke="currentColor" class="size-6">
+                            <path stroke-linecap="round" stroke-linejoin="round"
+                                d="M9.879 7.519c1.171-1.025 3.071-1.025 4.242 0 1.172 1.025 1.172 2.687 0 3.712-.203.179-.43.326-.67.442-.745.361-1.45.999-1.45 1.827v.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 5.25h.008v.008H12v-.008Z" />
+                        </svg>
+                        <div class="modes__item-types">
+                            <a href="/classic/daily/" class="modes__item-type button">Ежедневный</a>
+                            <a href="/classic/endless/" class="modes__item-type button">Бесконечный</a>
+                        </div>
+                    </li>
+                    <li class="modes__item not-guessed" data-js-modes-quote>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 256 256">
+                            <rect width="48" height="48" fill="none" />
+                            <path d="M108,144H40a8,8,0,0,1-8-8V72a8,8,0,0,1,8-8h60a8,8,0,0,1,8,8v88a40,40,0,0,1-40,40"
+                                fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                stroke-width="16" />
+                            <path d="M224,144H156a8,8,0,0,1-8-8V72a8,8,0,0,1,8-8h60a8,8,0,0,1,8,8v88a40,40,0,0,1-40,40"
+                                fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                stroke-width="16" />
+                        </svg>
+                        <div class="modes__item-types">
+                            <a href="/quote/daily/" class="modes__item-type button">Ежедневный</a>
+                            <a href="/quote/endless/" class="modes__item-type button">Бесконечный</a>
+                        </div>
+                    </li>
+                    <li class="modes__item not-guessed" data-js-modes-spell>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 256 256">
+                            <rect width="256" height="256" fill="none" />
+                            <polygon points="160 16 144 96 208 120 96 240 112 160 48 136 160 16" fill="none"
+                                stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                stroke-width="16" />
+                        </svg>
+                        <div class="modes__item-types">
+                            <a href="/spell/daily/" class="modes__item-type button">Ежедневный</a>
+                            <a href="/spell/endless/" class="modes__item-type button">Бесконечный</a>
+                        </div>
+                    </li>
+                    <li class="modes__item not-guessed" data-js-modes-splash>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="64" height="64">
+                            <rect width="256" height="256" fill="none" />
+                            <rect x="40" y="40" width="176" height="176" rx="8" fill="none" stroke="currentColor"
+                                stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                            <circle cx="96" cy="96" r="16" fill="none" stroke="currentColor" stroke-linecap="round"
+                                stroke-linejoin="round" stroke-width="16" />
+                            <path d="M56.69,216,166.34,106.34a8,8,0,0,1,11.32,0L216,144.69" fill="none"
+                                stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                stroke-width="16" />
+                        </svg>
+                        <div class="modes__item-types">
+                            <a href="/splash/daily/" class="modes__item-type button">Ежедневный</a>
+                            <a href="/splash/endless/" class="modes__item-type button">Бесконечный</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <section class="hints">
+            <div class="container">
+                <div class="hints__inner">
+                    <h1 class="hints__title h3">Какой чемпион говорит</h1>
+                    <ul class="hints__list">
+                        <li class="hints__item is-disabled">
+                            <div class="hints__quote-hint" data-js-quote></div>
+                            <button class="hints__btn is-disabled" data-js-hints-quote-open-btn data-js-hints-open-btn>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 256 256">
+                                    <rect width="48" height="48" fill="none" />
+                                    <path
+                                        d="M108,144H40a8,8,0,0,1-8-8V72a8,8,0,0,1,8-8h60a8,8,0,0,1,8,8v88a40,40,0,0,1-40,40"
+                                        fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                        stroke-width="16" />
+                                    <path
+                                        d="M224,144H156a8,8,0,0,1-8-8V72a8,8,0,0,1,8-8h60a8,8,0,0,1,8,8v88a40,40,0,0,1-40,40"
+                                        fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                        stroke-width="16" />
+                                </svg>
+                            </button>
+                            <span class="hints__btn-tooltip">
+                                <span class="hints__btn-tooltip-attempts" data-js-hints-quote-tooltip>6 попыток</span>
+                            </span>
+                        </li>
+                    </ul>
+                    <div class="hints__quote-hint-box" data-js-hints-quote-box data-js-hints-box>
+                        <button class="hints__quote-hint-audio-btn">
+                            <img src="../../icons/music-player-svgrepo-com.svg" alt="Play audio" data-js-quote-audio-btn-img>
+                        </button>
+                        <audio data-js-quote-audio class="hidden"></audio>
+                        <input type="range" min="0" max="1" step="0.01" value="1" class="hints__quote-hint-audio-mix">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="guess">
+            <div class="container">
+                <div class="guess__search" data-js-guess-box>
+                    <input type="text" class="guess__input" placeholder="Введите имя чемпиона"
+                        autocomplete="new-password" data-js-guess-input>
+                    <ul class="guess__dropdown-list" role="listbox" data-js-guess-droplist>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <section class="answers">
+            <div class="container">
+                <table class="answers__table">
+                    <thead class="answers__thead is-hidden" data-js-answers-thead>
+                        <tr class="answers__thead-tr">
+                            <th class="answers__thead-th">Чемпион</th>
+                            <th class="answers__thead-th">Пол</th>
+                            <th class="answers__thead-th">Позиция(и)</th>
+                            <th class="answers__thead-th">Виды</th>
+                            <th class="answers__thead-th">Ресурс</th>
+                            <th class="answers__thead-th">Тип <br>атаки</th>
+                            <th class="answers__thead-th">Регион(ы)</th>
+                            <th class="answers__thead-th">Год <br>выпуска</th>
+                        </tr>
+                    </thead>
+                    <tbody class="answers__tbody" data-js-answers-tbody></tbody>
+                </table>
+            </div>
+        </section>
+        <section class="last-champion" style="display: none;">
+
+        </section>
+        <section class="finish is-hidden" data-js-finish-root>
+            <div class="container">
+                <div class="finish__inner">
+                    <h2 class="finish__title">Nice one</h2>
+                    <div class="finish__this-champ" data-js-finish-champ>
+                        <div class="finish__champ-text-box">
+                            <span class="finish__champ-text-top">Вы угадали</span>
+                            <h3 class="finish__champ-name h2" data-js-finish-champ-name></h3>
+                        </div>
+                    </div>
+                    <div class="finish__attempts" data-js-finish-attempts>Количество попыток:</div>
+                    <button class="finish__statistic-btn" style="display: none;">Статистика</button>
+                    <div class="finish__next-champ-timer-box">
+                        <h3 class="finish__next-champ-title">Следующий чемпион через</h3>
+                        <div class="finish__next-champ-timer">
+                            <span class="finish__hours" data-js-timer-hours>00</span>
+                            :
+                            <span class="finish__minutes" data-js-timer-minutes>00</span>
+                            :
+                            <span class="finish__seconds" data-js-timer-seconds>00</span>
+                        </div>
+                        <span class="finish__utc">Часовой пояс: UTC +0</span>
+                    </div>
+                    <a href="/" class="finish__next-mode-btn" style="display: none;"></a>
+                    <div class="modes">
+                        <div class="container modes__inner modes__inner--end">
+                            <ul class="modes__list">
+                                <li class="modes__item not-guessed" data-js-modes-classic>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="none"
+                                        viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round"
+                                            d="M9.879 7.519c1.171-1.025 3.071-1.025 4.242 0 1.172 1.025 1.172 2.687 0 3.712-.203.179-.43.326-.67.442-.745.361-1.45.999-1.45 1.827v.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 5.25h.008v.008H12v-.008Z" />
+                                    </svg>
+                                    <div class="modes__item-types">
+                                        <a href="/classic/daily/" class="modes__item-type button">Ежедневный</a>
+                                        <a href="/classic/endless/" class="modes__item-type button">Бесконечный</a>
+                                    </div>
+                                </li>
+                                <li class="modes__item not-guessed" data-js-modes-quote>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"
+                                        viewBox="0 0 256 256">
+                                        <rect width="48" height="48" fill="none" />
+                                        <path
+                                            d="M108,144H40a8,8,0,0,1-8-8V72a8,8,0,0,1,8-8h60a8,8,0,0,1,8,8v88a40,40,0,0,1-40,40"
+                                            fill="none" stroke="currentColor" stroke-linecap="round"
+                                            stroke-linejoin="round" stroke-width="16" />
+                                        <path
+                                            d="M224,144H156a8,8,0,0,1-8-8V72a8,8,0,0,1,8-8h60a8,8,0,0,1,8,8v88a40,40,0,0,1-40,40"
+                                            fill="none" stroke="currentColor" stroke-linecap="round"
+                                            stroke-linejoin="round" stroke-width="16" />
+                                    </svg>
+                                    <div class="modes__item-types">
+                                        <a href="/quote/daily/" class="modes__item-type button">Ежедневный</a>
+                                        <a href="/quote/endless/" class="modes__item-type button">Бесконечный</a>
+                                    </div>
+                                </li>
+                                <li class="modes__item not-guessed" data-js-modes-spell>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"
+                                        viewBox="0 0 256 256">
+                                        <rect width="256" height="256" fill="none" />
+                                        <polygon points="160 16 144 96 208 120 96 240 112 160 48 136 160 16" fill="none"
+                                            stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                            stroke-width="16" />
+                                    </svg>
+                                    <div class="modes__item-types">
+                                        <a href="/spell/daily/" class="modes__item-type button">Ежедневный</a>
+                                        <a href="/spell/endless/" class="modes__item-type button">Бесконечный</a>
+                                    </div>
+                                </li>
+                                <li class="modes__item not-guessed" data-js-modes-splash>
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="64"
+                                        height="64">
+                                        <rect width="256" height="256" fill="none" />
+                                        <rect x="40" y="40" width="176" height="176" rx="8" fill="none"
+                                            stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                            stroke-width="16" />
+                                        <circle cx="96" cy="96" r="16" fill="none" stroke="currentColor"
+                                            stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                                        <path d="M56.69,216,166.34,106.34a8,8,0,0,1,11.32,0L216,144.69" fill="none"
+                                            stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                            stroke-width="16" />
+                                    </svg>
+                                    <div class="modes__item-types">
+                                        <a href="/splash/daily/" class="modes__item-type button">Ежедневный</a>
+                                        <a href="/splash/endless/" class="modes__item-type button">Бесконечный</a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <div class="footer-placeholder"></div>
+    <div class="setting-modal"></div>
+</body>
+
+</html>

@@ -1,0 +1,3094 @@
+{
+    "Aatrox": {
+        "quotes": [
+            {
+                "audio_en": "audio/Aatrox/aatrox_ru_RU_base_Kill_Illaoi.m4a",
+                "audio_ru": "audio/Aatrox/aatrox_ru_RU_base_Kill_Illaoi.m4a",
+                "text_ru": "Однажды я найду способ убить твою богиню, Иллаой.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Aatrox/aatrox_ru_RU_base_Kill_Taric.m4a",
+                "audio_ru": "audio/Aatrox/aatrox_ru_RU_base_Kill_Taric.m4a",
+                "text_ru": "Повелитель звёздного света и модных причёсок! Плевал я на твою Сущность, Тарик. И на труп тоже плюю.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Aatrox/aatrox_ru_RU_base_Kill_Tryndamere.m4a",
+                "audio_ru": "audio/Aatrox/aatrox_ru_RU_base_Kill_Tryndamere.m4a",
+                "text_ru": "Я хотел сделать тебя своим следующим сосудом, Триндамир. А из тебя даже раба не вышло. Жаль.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Ahri": {
+        "quotes": [
+            {
+                "audio_en": "audio/Ahri/ahri_ru_RU_base_First_Encounter_Vastaya.m4a",
+                "audio_ru": "audio/Ahri/ahri_ru_RU_base_First_Encounter_Vastaya.m4a",
+                "text_ru": "Я наконец поняла, что значит быть вастайи. Мы связываем воедино два мира.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Ahri/ahri_ru_RU_base_Kill_Braum.m4a",
+                "audio_ru": "audio/Ahri/ahri_ru_RU_base_Kill_Braum.m4a",
+                "text_ru": "Я сохраню твоё тепло в своём сердце, Браум.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Akali": {
+        "quotes": [
+            {
+                "audio_en": "audio/Akali/akali_ru_RU_base_First_Encounter_Kayn.m4a",
+                "audio_ru": "audio/Akali/akali_ru_RU_base_First_Encounter_Kayn.m4a",
+                "text_ru": "Каин, почему все красавчики – психи?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Akali/akali_ru_RU_base_First_Encounter_Zed_01.m4a",
+                "audio_ru": "audio/Akali/akali_ru_RU_base_First_Encounter_Zed_01.m4a",
+                "text_ru": "Я завершу то, что начал Шен.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Akshan": {
+        "quotes": [
+            {
+                "audio_en": "audio/Akshan/akshan_ru_RU_base_First_Encounter_Ezreal.m4a",
+                "audio_ru": "audio/Akshan/akshan_ru_RU_base_First_Encounter_Ezreal.m4a",
+                "text_ru": "Эй, парень, я тебя знаю! Это ты перчатку спёр!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Akshan/akshan_ru_RU_base_First_Encounter_Viego.m4a",
+                "audio_ru": "audio/Akshan/akshan_ru_RU_base_First_Encounter_Viego.m4a",
+                "text_ru": "Глупый Виего, мёртвых не вернуть. То есть, я-то могу это устроить, а вот ты нет.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Alistar": {
+        "quotes": [
+            {
+                "audio_en": "audio/Alistar/alistar_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Alistar/alistar_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Эй, это не для дойки!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Alistar/alistar_ru_RU_base_Move_Standard_02.m4a",
+                "audio_ru": "audio/Alistar/alistar_ru_RU_base_Move_Standard_02.m4a",
+                "text_ru": "Меня не удержать!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Ambessa": {
+        "quotes": [
+            {
+                "audio_en": "audio/Ambessa/ambessa_ru_RU_base_First_Encounter_Riven.m4a",
+                "audio_ru": "audio/Ambessa/ambessa_ru_RU_base_First_Encounter_Riven.m4a",
+                "text_ru": "",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Ambessa/ambessa_ru_RU_base_Move_First_Ally_Mel_02.m4a",
+                "audio_ru": "audio/Ambessa/ambessa_ru_RU_base_Move_First_Ally_Mel_02.m4a",
+                "text_ru": "",
+                "text_en": ""
+            }
+        ]
+    },
+    "Amumu": {
+        "quotes": [
+            {
+                "audio_en": "audio/Amumu/amumu_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Amumu/amumu_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Давайте жить дружно!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Anivia": {
+        "quotes": [
+            {
+                "audio_en": "audio/Anivia/anivia_ru_RU_base_Move_Standard_03.m4a",
+                "audio_ru": "audio/Anivia/anivia_ru_RU_base_Move_Standard_03.m4a",
+                "text_ru": "Зимний ветер, веди меня.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Anivia/anivia_ru_RU_base_Move_Standard_12.m4a",
+                "audio_ru": "audio/Anivia/anivia_ru_RU_base_Move_Standard_12.m4a",
+                "text_ru": "Я отдам тысячу жизней за Фрельйорд.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Annie": {
+        "quotes": [
+            {
+                "audio_en": "audio/Annie/annie_ru_RU_base_Annie_R_cast_01.m4a",
+                "audio_ru": "audio/Annie/annie_ru_RU_base_Annie_R_cast_01.m4a",
+                "text_ru": "Тибберс!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Annie/annie_ru_RU_base_Annie_R_cast_04.m4a",
+                "audio_ru": "audio/Annie/annie_ru_RU_base_Annie_R_cast_04.m4a",
+                "text_ru": "Обнимашки!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Annie/annie_ru_RU_base_Taunt_General_01.m4a",
+                "audio_ru": "audio/Annie/annie_ru_RU_base_Taunt_General_01.m4a",
+                "text_ru": "Плакса, вакса, гуталин, в мой огонь ты угодил! Ха!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Aphelios": {
+        "quotes": [
+            {
+                "audio_en": "audio/Aphelios/aphelios_ru_RU_base_First_Encounter_Soraka.m4a",
+                "audio_ru": "audio/Aphelios/aphelios_ru_RU_base_First_Encounter_Soraka.m4a",
+                "text_ru": "Сорака знает нашу боль, но предлагает отрицать её, отрицать самих себя.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Aphelios/aphelios_ru_RU_base_First_Encounter_Yuumi.m4a",
+                "audio_ru": "audio/Aphelios/aphelios_ru_RU_base_First_Encounter_Yuumi.m4a",
+                "text_ru": "В мире духов Юми гораздо ласковее. Она трётся о мои ноги, пока я листаю книгу и вспоминаю о дожде.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Ashe": {
+        "quotes": [
+            {
+                "audio_en": "audio/Ashe/ashe_ru_RU_base_First_Encounter_Braum_01.m4a",
+                "audio_ru": "audio/Ashe/ashe_ru_RU_base_First_Encounter_Braum_01.m4a",
+                "text_ru": "Браум, что ты там делаешь? Ты что, пьян?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Ashe/ashe_ru_RU_base_First_Encounter_Braum_02.m4a",
+                "audio_ru": "audio/Ashe/ashe_ru_RU_base_First_Encounter_Braum_02.m4a",
+                "text_ru": "Ты без рубашки, Браум? А я без штанов. Да здравствует Фрельйорд.",
+                "text_en": ""
+            }
+        ]
+    },
+    "AurelionSol": {
+        "quotes": [
+            {
+                "audio_en": "audio/AurelionSol/aurelionsol_ru_RU_base_First_Encounter_Draven.m4a",
+                "audio_ru": "audio/AurelionSol/aurelionsol_ru_RU_base_First_Encounter_Draven.m4a",
+                "text_ru": "А из тебя получился бы интересный дракон.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/AurelionSol/aurelionsol_ru_RU_base_First_Encounter_Nasus_02.m4a",
+                "audio_ru": "audio/AurelionSol/aurelionsol_ru_RU_base_First_Encounter_Nasus_02.m4a",
+                "text_ru": "Я могу обучить старого пса новым трюкам, но ты, Насус, мне не нравишься.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/AurelionSol/aurelionsol_ru_RU_base_First_Encounter_Tryndamere.m4a",
+                "audio_ru": "audio/AurelionSol/aurelionsol_ru_RU_base_First_Encounter_Tryndamere.m4a",
+                "text_ru": "Я создал галактики. Но твой меч, конечно, тоже ничего.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Aurora": {
+        "quotes": [
+            {
+                "audio_en": "audio/Aurora/aurora_ru_RU_base_First_Encounter_Briar.m4a",
+                "audio_ru": "audio/Aurora/aurora_ru_RU_base_First_Encounter_Briar.m4a",
+                "text_ru": "Ты — не человек и не дух… Кем бы ты ни была, шуму от тебя очень много.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Aurora/aurora_ru_RU_base_First_Encounter_Lulu_Veigar.m4a",
+                "audio_ru": "audio/Aurora/aurora_ru_RU_base_First_Encounter_Lulu_Veigar.m4a",
+                "text_ru": "Ой, у нас шляпы одинаковые!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Aurora/aurora_ru_RU_base_First_Encounter_Ornn.m4a",
+                "audio_ru": "audio/Aurora/aurora_ru_RU_base_First_Encounter_Ornn.m4a",
+                "text_ru": "Давно не виделись, Рамхорг! Я столько хочу тебе рассказать.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Azir": {
+        "quotes": [
+            {
+                "audio_en": "audio/Azir/azir_ru_RU_base_First_Encounter_Renekton.m4a",
+                "audio_ru": "audio/Azir/azir_ru_RU_base_First_Encounter_Renekton.m4a",
+                "text_ru": "Ренектон. Когда-то благородный воин, теперь лишь безумный зверь.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Azir/azir_ru_RU_base_Joke_General_02.m4a",
+                "audio_ru": "audio/Azir/azir_ru_RU_base_Joke_General_02.m4a",
+                "text_ru": "Возвращается, значит, голубь из командировки…",
+                "text_en": ""
+            }
+        ]
+    },
+    "Belveth": {
+        "quotes": [
+            {
+                "audio_en": "audio/Belveth/belveth_ru_RU_base_First_Encounter_Kassadin.m4a",
+                "audio_ru": "audio/Belveth/belveth_ru_RU_base_First_Encounter_Kassadin.m4a",
+                "text_ru": "Кассадин, той Бездны, которую ты помнишь, уже нет. Твою войну невозможно выиграть.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Belveth/belveth_ru_RU_base_First_Encounter_Viego.m4a",
+                "audio_ru": "audio/Belveth/belveth_ru_RU_base_First_Encounter_Viego.m4a",
+                "text_ru": "Какие сильные чувства, падший король. Сильные, как мой голод.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Blitzcrank": {
+        "quotes": [
+            {
+                "audio_en": "audio/Blitzcrank/blitzcrank_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Blitzcrank/blitzcrank_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Голем, голем, ге-ге-ге. Это была шутка. Другие големы считают, что это довольно смешно.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Blitzcrank/blitzcrank_ru_RU_base_Move_Standard_01.m4a",
+                "audio_ru": "audio/Blitzcrank/blitzcrank_ru_RU_base_Move_Standard_01.m4a",
+                "text_ru": "Ходячего голема коррозия не берет.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Brand": {
+        "quotes": [
+            {
+                "audio_en": "audio/Brand/brand_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Brand/brand_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Здесь правда жарко, или это я пришёл?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Brand/brand_ru_RU_base_Move_Standard_07.m4a",
+                "audio_ru": "audio/Brand/brand_ru_RU_base_Move_Standard_07.m4a",
+                "text_ru": "У меня горячая голова.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Braum": {
+        "quotes": [
+            {
+                "audio_en": "audio/Braum/braum_ru_RU_base_First_Encounter_Alistar_02.m4a",
+                "audio_ru": "audio/Braum/braum_ru_RU_base_First_Encounter_Alistar_02.m4a",
+                "text_ru": "Алистар, я знаю одну корову. Она тебе точно понравится.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Braum/braum_ru_RU_base_First_Encounter_Vi.m4a",
+                "audio_ru": "audio/Braum/braum_ru_RU_base_First_Encounter_Vi.m4a",
+                "text_ru": "Вот это волосы. Во Фрельйорде таких не увидишь.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Briar": {
+        "quotes": [
+            {
+                "audio_en": "audio/Briar/briar_ru_RU_base_First_Encounter_General_01.m4a",
+                "audio_ru": "audio/Briar/briar_ru_RU_base_First_Encounter_General_01.m4a",
+                "text_ru": "Привет! Когда обед?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Briar/briar_ru_RU_base_First_Encounter_Sion_02.m4a",
+                "audio_ru": "audio/Briar/briar_ru_RU_base_First_Encounter_Sion_02.m4a",
+                "text_ru": "У нас разный стиль боя, Сион. Ты такой (имитирует звуки, издаваемые Сионом), а я такая: 'ням-ням-ням-ням-ням-ням-ням-ням-ням', понимаешь?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Briar/briar_ru_RU_base_First_Encounter_Vladimir.m4a",
+                "audio_ru": "audio/Briar/briar_ru_RU_base_First_Encounter_Vladimir.m4a",
+                "text_ru": "Ээээ… как мне тебя называть? Владимир? Или папа?..",
+                "text_en": ""
+            }
+        ]
+    },
+    "Caitlyn": {
+        "quotes": [
+            {
+                "audio_en": "audio/Caitlyn/caitlyn_ru_RU_base_First_Encounter_Camille.m4a",
+                "audio_ru": "audio/Caitlyn/caitlyn_ru_RU_base_First_Encounter_Camille.m4a",
+                "text_ru": "Я знаю, ты что-то скрываешь, Камилла. Я докопаюсь до правды.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Caitlyn/caitlyn_ru_RU_base_Kill_Ezreal.m4a",
+                "audio_ru": "audio/Caitlyn/caitlyn_ru_RU_base_Kill_Ezreal.m4a",
+                "text_ru": "Так, Эзреаль, артефакты я изымаю как вещдоки.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Caitlyn/caitlyn_ru_RU_base_Kill_Penta.m4a",
+                "audio_ru": "audio/Caitlyn/caitlyn_ru_RU_base_Kill_Penta.m4a",
+                "text_ru": "Ох… Сколько бумажек теперь заполнять?",
+                "text_en": ""
+            }
+        ]
+    },
+    "Camille": {
+        "quotes": [
+            {
+                "audio_en": "audio/Camille/camille_ru_RU_base_First_Encounter_Ekko_02.m4a",
+                "audio_ru": "audio/Camille/camille_ru_RU_base_First_Encounter_Ekko_02.m4a",
+                "text_ru": "«Покоритель времени»? Кличка «Покоритель помоек» уже была занята?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Camille/camille_ru_RU_base_First_Encounter_Kled.m4a",
+                "audio_ru": "audio/Camille/camille_ru_RU_base_First_Encounter_Kled.m4a",
+                "text_ru": "Я даже не верила, что ты существуешь.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Camille/camille_ru_RU_base_First_Encounter_Warwick_03.m4a",
+                "audio_ru": "audio/Camille/camille_ru_RU_base_First_Encounter_Warwick_03.m4a",
+                "text_ru": "Все мы монстры. Просто по тебе это сразу видно.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Cassiopeia": {
+        "quotes": [
+            {
+                "audio_en": "audio/Cassiopeia/cassiopeia_ru_RU_base_Buy_Item_Liandrys_Anguish.m4a",
+                "audio_ru": "audio/Cassiopeia/cassiopeia_ru_RU_base_Buy_Item_Liandrys_Anguish.m4a",
+                "text_ru": "Мы все носим маски. Но у кого-то это получается лучше.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Cassiopeia/cassiopeia_ru_RU_base_First_Encounter_Sivir_02.m4a",
+                "audio_ru": "audio/Cassiopeia/cassiopeia_ru_RU_base_First_Encounter_Sivir_02.m4a",
+                "text_ru": "Прости, Сивир. Я избавляюсь от вещей, которые перестали приносить пользу.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Cassiopeia/cassiopeia_ru_RU_base_Joke_General_02.m4a",
+                "audio_ru": "audio/Cassiopeia/cassiopeia_ru_RU_base_Joke_General_02.m4a",
+                "text_ru": "Для упругой походки ноги не нужны.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Chogath": {
+        "quotes": [
+            {
+                "audio_en": "audio/Chogath/chogath_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Chogath/chogath_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Ням-ням-ням-ням-ням-ням-ням.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Chogath/chogath_ru_RU_base_Joke_General_03.m4a",
+                "audio_ru": "audio/Chogath/chogath_ru_RU_base_Joke_General_03.m4a",
+                "text_ru": "Эх. Зубочистки не хватает.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Corki": {
+        "quotes": [
+            {
+                "audio_en": "audio/Corki/corki_ru_RU_base_Move_Standard_02.m4a",
+                "audio_ru": "audio/Corki/corki_ru_RU_base_Move_Standard_02.m4a",
+                "text_ru": "Тандер, я Пташка, приём!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Corki/corki_ru_RU_base_Move_Standard_03.m4a",
+                "audio_ru": "audio/Corki/corki_ru_RU_base_Move_Standard_03.m4a",
+                "text_ru": "Ещё один удачный вылет!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Darius": {
+        "quotes": [
+            {
+                "audio_en": "audio/Darius/darius_ru_RU_base_Move_Standard_04.m4a",
+                "audio_ru": "audio/Darius/darius_ru_RU_base_Move_Standard_04.m4a",
+                "text_ru": "Ноксус возвысится над всеми.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Darius/darius_ru_RU_base_Move_Standard_10.m4a",
+                "audio_ru": "audio/Darius/darius_ru_RU_base_Move_Standard_10.m4a",
+                "text_ru": "У меня есть приказ.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Diana": {
+        "quotes": [
+            {
+                "audio_en": "audio/Diana/diana_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Diana/diana_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Тук-тук. Кто там? Луна… Она далеко! Всё это время ты был один! (смех)",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Diana/diana_ru_RU_base_Joke_General_02.m4a",
+                "audio_ru": "audio/Diana/diana_ru_RU_base_Joke_General_02.m4a",
+                "text_ru": "Мужчина, женщина и йордл прогуливались на солнце… Они умерли! Солнце сожгло их! (смех)",
+                "text_en": ""
+            }
+        ]
+    },
+    "Draven": {
+        "quotes": [
+            {
+                "audio_en": "audio/Draven/draven_ru_RU_base_Move_Standard_06.m4a",
+                "audio_ru": "audio/Draven/draven_ru_RU_base_Move_Standard_06.m4a",
+                "text_ru": "Давай повосхищаемся мной немного!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Draven/draven_ru_RU_base_Spell_QPCast_01.m4a",
+                "audio_ru": "audio/Draven/draven_ru_RU_base_Spell_QPCast_01.m4a",
+                "text_ru": "Отличный топор. Я его заберу.",
+                "text_en": ""
+            }
+        ]
+    },
+    "DrMundo": {
+        "quotes": [
+            {
+                "audio_en": "audio/DrMundo/drmundo_ru_RU_base_First_Encounter_Camille.m4a",
+                "audio_ru": "audio/DrMundo/drmundo_ru_RU_base_First_Encounter_Camille.m4a",
+                "text_ru": "Тебе нужна пересадка сердца, серая леди.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/DrMundo/drmundo_ru_RU_base_First_Encounter_Crazies.m4a",
+                "audio_ru": "audio/DrMundo/drmundo_ru_RU_base_First_Encounter_Crazies.m4a",
+                "text_ru": "Ты вести себя разумно! Наверно, ты тоже доктор?",
+                "text_en": ""
+            }
+        ]
+    },
+    "Ekko": {
+        "quotes": [
+            {
+                "audio_en": "audio/Ekko/ekko_ru_RU_base_First_Encounter_Garen_01.m4a",
+                "audio_ru": "audio/Ekko/ekko_ru_RU_base_First_Encounter_Garen_01.m4a",
+                "text_ru": "ЗААААААААААУН!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Ekko/ekko_ru_RU_base_First_Encounter_Velkoz.m4a",
+                "audio_ru": "audio/Ekko/ekko_ru_RU_base_First_Encounter_Velkoz.m4a",
+                "text_ru": "Я выбью тебе глаз! Только что у тебя останется?.. Как ты вообще живёшь?",
+                "text_en": ""
+            }
+        ]
+    },
+    "Elise": {
+        "quotes": [
+            {
+                "audio_en": "audio/Elise/elise_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Elise/elise_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Говорят, мужчины любят женские ножки.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Elise/elise_ru_RU_base_Move_Standard_05.m4a",
+                "audio_ru": "audio/Elise/elise_ru_RU_base_Move_Standard_05.m4a",
+                "text_ru": "Любая паутина – шедевр.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Evelynn": {
+        "quotes": [
+            {
+                "audio_en": "audio/Evelynn/evelynn_ru_RU_base_First_Encounter_Nocturne_02.m4a",
+                "audio_ru": "audio/Evelynn/evelynn_ru_RU_base_First_Encounter_Nocturne_02.m4a",
+                "text_ru": "Может быть, сделаем это при свете?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Evelynn/evelynn_ru_RU_base_Joke_Response_General_01.m4a",
+                "audio_ru": "audio/Evelynn/evelynn_ru_RU_base_Joke_Response_General_01.m4a",
+                "text_ru": "А знаешь, что смешно? Просунуть язык через дырку в шее.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Ezreal": {
+        "quotes": [
+            {
+                "audio_en": "audio/Ezreal/ezreal_ru_RU_base_First_Encounter_Demacia_02.m4a",
+                "audio_ru": "audio/Ezreal/ezreal_ru_RU_base_First_Encounter_Demacia_02.m4a",
+                "text_ru": "Честно говоря, во всей Демасии мне нравится только один человек. А Люкс ничего обо мне говорила? Совсем ничего?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Ezreal/ezreal_ru_RU_base_First_Encounter_Lux_03.m4a",
+                "audio_ru": "audio/Ezreal/ezreal_ru_RU_base_First_Encounter_Lux_03.m4a",
+                "text_ru": "Люкс, не притворяйся, что не заметила меня. Со мной это не прокатит!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Ezreal/ezreal_ru_RU_base_First_Encounter_Zoe_01.m4a",
+                "audio_ru": "audio/Ezreal/ezreal_ru_RU_base_First_Encounter_Zoe_01.m4a",
+                "text_ru": "Нет, Зои. Ты слишком стара для меня. Тебе же тыща лет!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Fiddlesticks": {
+        "quotes": [
+            {
+                "audio_en": "audio/Fiddlesticks/fiddlesticks_ru_RU_base_First_Encounter_Annie.m4a",
+                "audio_ru": "audio/Fiddlesticks/fiddlesticks_ru_RU_base_First_Encounter_Annie.m4a",
+                "text_ru": "Энни! Помоги мне! Энни!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Fiddlesticks/fiddlesticks_ru_RU_base_First_Encounter_Nunu.m4a",
+                "audio_ru": "audio/Fiddlesticks/fiddlesticks_ru_RU_base_First_Encounter_Nunu.m4a",
+                "text_ru": "Я всегда с тобой, мой маленький герой!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Fiddlesticks/fiddlesticks_ru_RU_base_First_Encounter_Riven.m4a",
+                "audio_ru": "audio/Fiddlesticks/fiddlesticks_ru_RU_base_First_Encounter_Riven.m4a",
+                "text_ru": "Виновна! Виновна! Виновна!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Fiora": {
+        "quotes": [
+            {
+                "audio_en": "audio/Fiora/fiora_ru_RU_base_Joke_General_02.m4a",
+                "audio_ru": "audio/Fiora/fiora_ru_RU_base_Joke_General_02.m4a",
+                "text_ru": "Талант, честь, дисциплина и...пони!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Fiora/fiora_ru_RU_base_Move_Standard_05.m4a",
+                "audio_ru": "audio/Fiora/fiora_ru_RU_base_Move_Standard_05.m4a",
+                "text_ru": "Точность и изящество.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Fizz": {
+        "quotes": [
+            {
+                "audio_en": "audio/Fizz/fizz_ru_RU_base_Joke_End_01.m4a",
+                "audio_ru": "audio/Fizz/fizz_ru_RU_base_Joke_End_01.m4a",
+                "text_ru": "Рыба-рыба-рыба!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Galio": {
+        "quotes": [
+            {
+                "audio_en": "audio/Galio/galio_ru_RU_base_First_Encounter_Illaoi.m4a",
+                "audio_ru": "audio/Galio/galio_ru_RU_base_First_Encounter_Illaoi.m4a",
+                "text_ru": "Призывай своего бога, разрисованная жрица. И посмотрим, кто сильнее.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Galio/galio_ru_RU_base_First_Encounter_Jarvan_IV.m4a",
+                "audio_ru": "audio/Galio/galio_ru_RU_base_First_Encounter_Jarvan_IV.m4a",
+                "text_ru": "Ты тоже Джарван? Я встречал уже троих Джарванов.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Gangplank": {
+        "quotes": [
+            {
+                "audio_en": "audio/Gangplank/gangplank_ru_RU_base_First_Encounter_Graves_01.m4a",
+                "audio_ru": "audio/Gangplank/gangplank_ru_RU_base_First_Encounter_Graves_01.m4a",
+                "text_ru": "У тебя не будет могилы, Грейвз. А знаешь, почему? Ты сам давно себе могилу выкопал, просто не сразу в неё упал, вот и всё!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Gangplank/gangplank_ru_RU_base_First_Encounter_Miss_Fortune.m4a",
+                "audio_ru": "audio/Gangplank/gangplank_ru_RU_base_First_Encounter_Miss_Fortune.m4a",
+                "text_ru": "Хуже предателя может быть только… плохой стрелок.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Garen": {
+        "quotes": [
+            {
+                "audio_en": "audio/Garen/garen_ru_RU_base_Kill_Darius_02.m4a",
+                "audio_ru": "audio/Garen/garen_ru_RU_base_Kill_Darius_02.m4a",
+                "text_ru": "Протяни мне руку Ноксуса – и от неё останется обрубок.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Garen/garen_ru_RU_base_Move_Standard_11.m4a",
+                "audio_ru": "audio/Garen/garen_ru_RU_base_Move_Standard_11.m4a",
+                "text_ru": "За Демасию!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Gnar": {
+        "quotes": [
+            {
+                "audio_en": "audio/Gnar/gnar_ru_RU_base_First_Encounter_Garen.m4a",
+                "audio_ru": "audio/Gnar/gnar_ru_RU_base_First_Encounter_Garen.m4a",
+                "text_ru": "Демагия!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Gnar/gnar_ru_RU_base_First_Encounter_Rammus.m4a",
+                "audio_ru": "audio/Gnar/gnar_ru_RU_base_First_Encounter_Rammus.m4a",
+                "text_ru": "М'окей.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Gragas": {
+        "quotes": [
+            {
+                "audio_en": "audio/Gragas/gragas_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Gragas/gragas_ru_RU_base_Joke_General.m4a",
+                "text_ru": "У меня проблемы с алкоголем возникают, только когда я его разливаю! (смех)",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Gragas/gragas_ru_RU_base_Taunt_General.m4a",
+                "audio_ru": "audio/Gragas/gragas_ru_RU_base_Taunt_General.m4a",
+                "text_ru": "Я перепью тебя даже после бочки грога!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Graves": {
+        "quotes": [
+            {
+                "audio_en": "audio/Graves/graves_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Graves/graves_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Все тут герои… пока не отстрелишь одну-две ноги.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Graves/graves_ru_RU_base_Joke_General_02.m4a",
+                "audio_ru": "audio/Graves/graves_ru_RU_base_Joke_General_02.m4a",
+                "text_ru": "Мне нравится только два типа противников: мёртвые и почти мёртвые.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Gwen": {
+        "quotes": [
+            {
+                "audio_en": "audio/Gwen/gwen_ru_RU_base_First_Encounter_Akshan.m4a",
+                "audio_ru": "audio/Gwen/gwen_ru_RU_base_First_Encounter_Akshan.m4a",
+                "text_ru": "Стражи Света гордятся тобой, Акшан. Не подведи их.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Gwen/gwen_ru_RU_base_First_Encounter_Thresh.m4a",
+                "audio_ru": "audio/Gwen/gwen_ru_RU_base_First_Encounter_Thresh.m4a",
+                "text_ru": "Однажды я дала тебе отпор, Треш, и я сделаю это снова, какую бы форму ты ни принял.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Gwen/gwen_ru_RU_base_Kill_General_03.m4a",
+                "audio_ru": "audio/Gwen/gwen_ru_RU_base_Kill_General_03.m4a",
+                "text_ru": "Я чувствую себя живой!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Hecarim": {
+        "quotes": [
+            {
+                "audio_en": "audio/Hecarim/hecarim_ru_RU_base_Move_Standard_01.m4a",
+                "audio_ru": "audio/Hecarim/hecarim_ru_RU_base_Move_Standard_01.m4a",
+                "text_ru": "Война вечна.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Heimerdinger": {
+        "quotes": [
+            {
+                "audio_en": "audio/Heimerdinger/heimerdinger_ru_RU_base_First_Encounter_Jayce.m4a",
+                "audio_ru": "audio/Heimerdinger/heimerdinger_ru_RU_base_First_Encounter_Jayce.m4a",
+                "text_ru": "А, Джейс, разреши мне воспользоваться твоей… хекспертизой!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Heimerdinger/heimerdinger_ru_RU_base_Taunt_General_01.m4a",
+                "audio_ru": "audio/Heimerdinger/heimerdinger_ru_RU_base_Taunt_General_01.m4a",
+                "text_ru": "Я предпочитаю битву умов, но ты-то безоружен! (смех)",
+                "text_en": ""
+            }
+        ]
+    },
+    "Hwei": {
+        "quotes": [
+            {
+                "audio_en": "audio/Hwei/hwei_ru_RU_base_First_Encounter_Jhin.m4a",
+                "audio_ru": "audio/Hwei/hwei_ru_RU_base_First_Encounter_Jhin.m4a",
+                "text_ru": "Джин, ты на многое открыл мне глаза. Я покажу тебе результат этих откровений.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Hwei/hwei_ru_RU_base_First_Encounter_Kayn.m4a",
+                "audio_ru": "audio/Hwei/hwei_ru_RU_base_First_Encounter_Kayn.m4a",
+                "text_ru": "Каин, я вижу в тебе контраст красного и синего.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Illaoi": {
+        "quotes": [
+            {
+                "audio_en": "audio/Illaoi/illaoi_ru_RU_base_First_Encounter_Braum_02.m4a",
+                "audio_ru": "audio/Illaoi/illaoi_ru_RU_base_First_Encounter_Braum_02.m4a",
+                "text_ru": "Я знаю, что ты сильный. Мне интересно, вынослив ли ты.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Illaoi/illaoi_ru_RU_base_First_Encounter_Missfortune_01.m4a",
+                "audio_ru": "audio/Illaoi/illaoi_ru_RU_base_First_Encounter_Missfortune_01.m4a",
+                "text_ru": "Это ты показала Гангпланку его путь. Благодарю тебя за это.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Irelia": {
+        "quotes": [
+            {
+                "audio_en": "audio/Irelia/irelia_ru_RU_base_First_Encounter_Ahri.m4a",
+                "audio_ru": "audio/Irelia/irelia_ru_RU_base_First_Encounter_Ahri.m4a",
+                "text_ru": "Хватит юлить, девятихвостая! Пора сражаться.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Irelia/irelia_ru_RU_base_First_Encounter_Aurelion_Sol.m4a",
+                "audio_ru": "audio/Irelia/irelia_ru_RU_base_First_Encounter_Aurelion_Sol.m4a",
+                "text_ru": "Кого ты хочешь удивить? В Ионии 200 видов говорящих драконов. Не впечатляет, прости.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Irelia/irelia_ru_RU_base_First_Encounter_Garen_01.m4a",
+                "audio_ru": "audio/Irelia/irelia_ru_RU_base_First_Encounter_Garen_01.m4a",
+                "text_ru": "ИОНИЯ! Вот как это выглядит со стороны.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Ivern": {
+        "quotes": [
+            {
+                "audio_en": "audio/Ivern/ivern_ru_RU_base_First_Encounter_Jhin.m4a",
+                "audio_ru": "audio/Ivern/ivern_ru_RU_base_First_Encounter_Jhin.m4a",
+                "text_ru": "Жизнь гораздо красивее смерти.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Ivern/ivern_ru_RU_base_First_Encounter_Lulu.m4a",
+                "audio_ru": "audio/Ivern/ivern_ru_RU_base_First_Encounter_Lulu.m4a",
+                "text_ru": "Ах, наконец-то. Та, кто понимает природу, как я.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Ivern/ivern_ru_RU_base_First_Encounter_Maokai.m4a",
+                "audio_ru": "audio/Ivern/ivern_ru_RU_base_First_Encounter_Maokai.m4a",
+                "text_ru": "Ты пойдёшь на ежегодное собрание деревьев? Я наряжусь лавром!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Janna": {
+        "quotes": [
+            {
+                "audio_en": "audio/Janna/janna_ru_RU_base_Move_Standard_01.m4a",
+                "audio_ru": "audio/Janna/janna_ru_RU_base_Move_Standard_01.m4a",
+                "text_ru": "Вслед за ветром.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Janna/janna_ru_RU_base_Taunt_General.m4a",
+                "audio_ru": "audio/Janna/janna_ru_RU_base_Taunt_General.m4a",
+                "text_ru": "По-твоему, я безобидна, как лёгкий ветерок?",
+                "text_en": ""
+            }
+        ]
+    },
+    "JarvanIV": {
+        "quotes": [
+            {
+                "audio_en": "audio/JarvanIV/jarvaniv_ru_RU_base_Move_Standard_06.m4a",
+                "audio_ru": "audio/JarvanIV/jarvaniv_ru_RU_base_Move_Standard_06.m4a",
+                "text_ru": "За моего отца, короля.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Jax": {
+        "quotes": [
+            {
+                "audio_en": "audio/Jax/jax_ru_RU_base_First_Encounter_Aatrox.m4a",
+                "audio_ru": "audio/Jax/jax_ru_RU_base_First_Encounter_Aatrox.m4a",
+                "text_ru": "Ох, Атрокс. А я думал у меня тяжелая военная травма.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Jax/jax_ru_RU_base_First_Encounter_Illaoi.m4a",
+                "audio_ru": "audio/Jax/jax_ru_RU_base_First_Encounter_Illaoi.m4a",
+                "text_ru": "Ты меня испытываешь, Иллаой? Ну, давай.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Jax/jax_ru_RU_base_First_Encounter_Kassadin.m4a",
+                "audio_ru": "audio/Jax/jax_ru_RU_base_First_Encounter_Kassadin.m4a",
+                "text_ru": "Кассадин, если будешь сражаться с Бездной в одиночку, рано или поздно она тебя поглотит.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Jayce": {
+        "quotes": [
+            {
+                "audio_en": "audio/Jayce/jayce_ru_RU_base_Jayce_Shock_Blast_Wall_Sound_Hit_On_Buff_Activate_03.m4a",
+                "audio_ru": "audio/Jayce/jayce_ru_RU_base_Jayce_Shock_Blast_Wall_Sound_Hit_On_Buff_Activate_03.m4a",
+                "text_ru": "Ощути на себе гром!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Jayce/jayce_ru_RU_base_Taunt_General_02.m4a",
+                "audio_ru": "audio/Jayce/jayce_ru_RU_base_Taunt_General_02.m4a",
+                "text_ru": "Ха! Будущее выглядит именно так!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Jhin": {
+        "quotes": [
+            {
+                "audio_en": "audio/Jhin/jhin_ru_RU_base_First_Encounter_Garen.m4a",
+                "audio_ru": "audio/Jhin/jhin_ru_RU_base_First_Encounter_Garen.m4a",
+                "text_ru": "Нестареющая история о несчастных влюблённых.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Jhin/jhin_ru_RU_base_First_Encounter_Katarina.m4a",
+                "audio_ru": "audio/Jhin/jhin_ru_RU_base_First_Encounter_Katarina.m4a",
+                "text_ru": "Тебе суждено быть в тени. Публике ты не нравишься.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Jhin/jhin_ru_RU_base_First_Encounter_Zed_01.m4a",
+                "audio_ru": "audio/Jhin/jhin_ru_RU_base_First_Encounter_Zed_01.m4a",
+                "text_ru": "Твоя партия завершится дуэтом.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Jinx": {
+        "quotes": [
+            {
+                "audio_en": "audio/Jinx/jinx_ru_RU_base_Joke_General_03.m4a",
+                "audio_ru": "audio/Jinx/jinx_ru_RU_base_Joke_General_03.m4a",
+                "text_ru": "Эй, Скелетница, мы ведь можем отрываться вечно? — Нет, ты должна купить дом и накопить на пенсию. — Ты в курсе, что я могу тебя сменить, а?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Jinx/jinx_ru_RU_base_Taunt_General_02.m4a",
+                "audio_ru": "audio/Jinx/jinx_ru_RU_base_Taunt_General_02.m4a",
+                "text_ru": "Дерёмся на ножах? А я принесу пушку!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Kaisa": {
+        "quotes": [
+            {
+                "audio_en": "audio/Kaisa/kaisa_ru_RU_base_Move_First_Kassadin_07.m4a",
+                "audio_ru": "audio/Kaisa/kaisa_ru_RU_base_Move_First_Kassadin_07.m4a",
+                "text_ru": "Странно. Почему-то вдруг вспомнила об отце.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Kaisa/kaisa_ru_RU_base_Move_Long_01.m4a",
+                "audio_ru": "audio/Kaisa/kaisa_ru_RU_base_Move_Long_01.m4a",
+                "text_ru": "Бездна поглощает всё, оставляя после себя пустоту.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Kalista": {
+        "quotes": [
+            {
+                "audio_en": "audio/Kalista/kalista_ru_RU_base_First_Encounter_Cassiopeia_01.m4a",
+                "audio_ru": "audio/Kalista/kalista_ru_RU_base_First_Encounter_Cassiopeia_01.m4a",
+                "text_ru": "Когда-нибудь нож будет торчать из твоей спины, змея!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Kalista/kalista_ru_RU_base_First_Encounter_Karthus_01.m4a",
+                "audio_ru": "audio/Kalista/kalista_ru_RU_base_First_Encounter_Karthus_01.m4a",
+                "text_ru": "Только глупец мог добровольно отдаться смерти, Картус.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Karma": {
+        "quotes": [
+            {
+                "audio_en": "audio/Karma/karma_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Karma/karma_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Ты же знаешь, как говорят? 'Карма всегда тебя догонит'.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Karma/karma_ru_RU_base_Move_Standard_05.m4a",
+                "audio_ru": "audio/Karma/karma_ru_RU_base_Move_Standard_05.m4a",
+                "text_ru": "Иония меняется, и мне тоже нужно это сделать.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Karthus": {
+        "quotes": [
+            {
+                "audio_en": "audio/Karthus/karthus_ru_RU_base_First_Encounter_Hecarim_02.m4a",
+                "audio_ru": "audio/Karthus/karthus_ru_RU_base_First_Encounter_Hecarim_02.m4a",
+                "text_ru": "Ты лишь предвестник, Гекарим. Не забывай, кому служишь.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Karthus/karthus_ru_RU_base_First_Encounter_Mordekaiser_01.m4a",
+                "audio_ru": "audio/Karthus/karthus_ru_RU_base_First_Encounter_Mordekaiser_01.m4a",
+                "text_ru": "Ты даёшь мертвецам цель, Мордекайзер. Я даю им смысл.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Kassadin": {
+        "quotes": [
+            {
+                "audio_en": "audio/Kassadin/kassadin_ru_RU_base_Attack_General_01.m4a",
+                "audio_ru": "audio/Kassadin/kassadin_ru_RU_base_Attack_General_01.m4a",
+                "text_ru": "Молчать!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Kassadin/kassadin_ru_RU_base_Move_Standard_05.m4a",
+                "audio_ru": "audio/Kassadin/kassadin_ru_RU_base_Move_Standard_05.m4a",
+                "text_ru": "Баланс превыше всего.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Katarina": {
+        "quotes": [
+            {
+                "audio_en": "audio/Katarina/katarina_ru_RU_base_Attack_General_02.m4a",
+                "audio_ru": "audio/Katarina/katarina_ru_RU_base_Attack_General_02.m4a",
+                "text_ru": "Кровь для Ноксуса!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Kayle": {
+        "quotes": [
+            {
+                "audio_en": "audio/Kayle/kayle_ru_RU_base_Chat_Morgana_Spell_Basic_Hit_Kayle01_Chat2_01.m4a",
+                "audio_ru": "audio/Kayle/kayle_ru_RU_base_Chat_Morgana_Spell_Basic_Hit_Kayle01_Chat2_01.m4a",
+                "text_ru": "Сестра, ты поцарапаешь мне доспехи.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Kayle/kayle_ru_RU_base_First_Encounter_Lux.m4a",
+                "audio_ru": "audio/Kayle/kayle_ru_RU_base_First_Encounter_Lux.m4a",
+                "text_ru": "Люкс, соучастие – тяжкое преступление.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Kayn": {
+        "quotes": [
+            {
+                "audio_en": "audio/Kayn/kayn_ru_RU_base_Kill_First_Blood_03.m4a",
+                "audio_ru": "audio/Kayn/kayn_ru_RU_base_Kill_First_Blood_03.m4a",
+                "text_ru": "Говорят, первое убийство помнят всю жизнь. Кстати, а сейчас кто был?..",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Kayn/kayn_ru_RU_base_Kill_Zed_01.m4a",
+                "audio_ru": "audio/Kayn/kayn_ru_RU_base_Kill_Zed_01.m4a",
+                "text_ru": "От Ордена Тени остался лишь прах... От вас с Каином тоже.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Kennen": {
+        "quotes": [
+            {
+                "audio_en": "audio/Kennen/kennen_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Kennen/kennen_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Нет маленьких ролей, есть маленькие актёры!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Kennen/kennen_ru_RU_base_Taunt_General.m4a",
+                "audio_ru": "audio/Kennen/kennen_ru_RU_base_Taunt_General.m4a",
+                "text_ru": "Чем больше цель, тем больше дырок в ней можно наделать!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Khazix": {
+        "quotes": [
+            {
+                "audio_en": "audio/Khazix/khazix_ru_RU_base_Move_Standard_01.m4a",
+                "audio_ru": "audio/Khazix/khazix_ru_RU_base_Move_Standard_01.m4a",
+                "text_ru": "Бойся Бездны.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Khazix/khazix_ru_RU_base_Move_Standard_12.m4a",
+                "audio_ru": "audio/Khazix/khazix_ru_RU_base_Move_Standard_12.m4a",
+                "text_ru": "Бесконечный голод.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Kindred": {
+        "quotes": [
+            {
+                "audio_en": "audio/Kindred/kindred_ru_RU_base_First_Encounter_Amumu.m4a",
+                "audio_ru": "audio/Kindred/kindred_ru_RU_base_First_Encounter_Amumu.m4a",
+                "text_ru": "Мы понимаем, как ты одинок, но... держись подальше!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Kindred/kindred_ru_RU_base_First_Encounter_Katarina.m4a",
+                "audio_ru": "audio/Kindred/kindred_ru_RU_base_First_Encounter_Katarina.m4a",
+                "text_ru": "Мы всюду находили твои следы. Теперь покажись нам!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Kled": {
+        "quotes": [
+            {
+                "audio_en": "audio/Kled/kled_ru_RU_base_Taunt_Response_General_02.m4a",
+                "audio_ru": "audio/Kled/kled_ru_RU_base_Taunt_Response_General_02.m4a",
+                "text_ru": "А ну повтори! Наглая рожа!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Kled/kled_ru_RU_base_Taunt_Response_General_04.m4a",
+                "audio_ru": "audio/Kled/kled_ru_RU_base_Taunt_Response_General_04.m4a",
+                "text_ru": "Я простой йордл, стою перед тобой и прошу… ЗАКРЫТЬ ВАРЕЖКУ!!!",
+                "text_en": ""
+            }
+        ]
+    },
+    "KogMaw": {
+        "quotes": [
+            {
+                "audio_en": "audio/KogMaw/kogmaw_ru_RU_base_Move_Standard_04.m4a",
+                "audio_ru": "audio/KogMaw/kogmaw_ru_RU_base_Move_Standard_04.m4a",
+                "text_ru": "Жрать хочу.",
+                "text_en": ""
+            }
+        ]
+    },
+    "KSante": {
+        "quotes": [
+            {
+                "audio_en": "audio/KSante/ksante_ru_RU_base_First_Encounter_Camille.m4a",
+                "audio_ru": "audio/KSante/ksante_ru_RU_base_First_Encounter_Camille.m4a",
+                "text_ru": "Тётушка говорила, что сильные женщины крепче стали. И оказалась права!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/KSante/ksante_ru_RU_base_First_Encounter_Nasus.m4a",
+                "audio_ru": "audio/KSante/ksante_ru_RU_base_First_Encounter_Nasus.m4a",
+                "text_ru": "асус! Ты спокойно смотрел, как вознёсишеся истребляли мой народ! Больше такого не повторится.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/KSante/ksante_ru_RU_base_First_Encounter_Nilah.m4a",
+                "audio_ru": "audio/KSante/ksante_ru_RU_base_First_Encounter_Nilah.m4a",
+                "text_ru": "Ты убила немало чудовищ, Нила? Я готов с тобой объединиться, если ты меня впечатлишь.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Leblanc": {
+        "quotes": [
+            {
+                "audio_en": "audio/Leblanc/leblanc_ru_RU_base_First_Encounter_Ambessa_02.m4a",
+                "audio_ru": "audio/Leblanc/leblanc_ru_RU_base_First_Encounter_Ambessa_02.m4a",
+                "text_ru": "Амбесса Медарда... За тобой долг, который золотом не оплатить.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Leblanc/leblanc_ru_RU_base_First_Encounter_Talon.m4a",
+                "audio_ru": "audio/Leblanc/leblanc_ru_RU_base_First_Encounter_Talon.m4a",
+                "text_ru": "Дю Като бесполезны, мальчик мой. Бери выше",
+                "text_en": ""
+            }
+        ]
+    },
+    "LeeSin": {
+        "quotes": [
+            {
+                "audio_en": "audio/LeeSin/leesin_ru_RU_base_First_Encounter_Master_Yi.m4a",
+                "audio_ru": "audio/LeeSin/leesin_ru_RU_base_First_Encounter_Master_Yi.m4a",
+                "text_ru": "Вынимай меч, Мастер Йи. Я долго ждал этой встречи.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/LeeSin/leesin_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/LeeSin/leesin_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "У меня кончились шутки про слепых.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Leona": {
+        "quotes": [
+            {
+                "audio_en": "audio/Leona/leona_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Leona/leona_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Не пялься на меня. Ослепнешь.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Leona/leona_ru_RU_base_Move_Standard_07.m4a",
+                "audio_ru": "audio/Leona/leona_ru_RU_base_Move_Standard_07.m4a",
+                "text_ru": "Скоро рассвет.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Lillia": {
+        "quotes": [
+            {
+                "audio_en": "audio/Lillia/lillia_ru_RU_base_First_Encounter_Ahri.m4a",
+                "audio_ru": "audio/Lillia/lillia_ru_RU_base_First_Encounter_Ahri.m4a",
+                "text_ru": "Одни приходят в сад забывшись, другие – чтобы забыться. Как ты, Ари.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Lillia/lillia_ru_RU_base_First_Encounter_Zoe.m4a",
+                "audio_ru": "audio/Lillia/lillia_ru_RU_base_First_Encounter_Zoe.m4a",
+                "text_ru": "Ты даришь много снов, сверкающее дитя. Но и много боли.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Lissandra": {
+        "quotes": [
+            {
+                "audio_en": "audio/Lissandra/lissandra_ru_RU_base_First_Encounter_Ashe.m4a",
+                "audio_ru": "audio/Lissandra/lissandra_ru_RU_base_First_Encounter_Ashe.m4a",
+                "text_ru": "Я убила уже столько королев, что не счесть!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Lissandra/lissandra_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Lissandra/lissandra_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Почему так холодно? Потому что я здесь!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Lucian": {
+        "quotes": [
+            {
+                "audio_en": "audio/Lucian/lucian_ru_RU_base_First_Encounter_Hecarim_02.m4a",
+                "audio_ru": "audio/Lucian/lucian_ru_RU_base_First_Encounter_Hecarim_02.m4a",
+                "text_ru": "Я не страшусь тебя, Гекарим. Мне просто жаль губить хорошую лошадь.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Lucian/lucian_ru_RU_base_First_Encounter_Thresh_02.m4a",
+                "audio_ru": "audio/Lucian/lucian_ru_RU_base_First_Encounter_Thresh_02.m4a",
+                "text_ru": "Я тебя не забыл, Треш, и не простил.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Lulu": {
+        "quotes": [
+            {
+                "audio_en": "audio/Lulu/lulu_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Lulu/lulu_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Пора надеть думательные шапочки! Хм. А, я поняла!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Lulu/lulu_ru_RU_base_Move_Standard_03.m4a",
+                "audio_ru": "audio/Lulu/lulu_ru_RU_base_Move_Standard_03.m4a",
+                "text_ru": "Эти белки мне знакомы.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Lux": {
+        "quotes": [
+            {
+                "audio_en": "audio/Lux/lux_ru_RU_base_First_Encounter_Ezreal.m4a",
+                "audio_ru": "audio/Lux/lux_ru_RU_base_First_Encounter_Ezreal.m4a",
+                "text_ru": "Это свидание или что-то вроде того? Мы ведь с тобой ни разу не разговаривали.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Lux/lux_ru_RU_base_First_Encounter_Garen.m4a",
+                "audio_ru": "audio/Lux/lux_ru_RU_base_First_Encounter_Garen.m4a",
+                "text_ru": "Семейные разборки? Как интересно!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Lux/lux_ru_RU_base_First_Encounter_Katarina.m4a",
+                "audio_ru": "audio/Lux/lux_ru_RU_base_First_Encounter_Katarina.m4a",
+                "text_ru": "Тили-тили-тесто, Гарен с Катариной – жених и невеста!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Malphite": {
+        "quotes": [
+            {
+                "audio_en": "audio/Malphite/malphite_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Malphite/malphite_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Если ты не идёшь к горе, то гора идёт к тебе.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Malphite/malphite_ru_RU_base_Move_Standard_04.m4a",
+                "audio_ru": "audio/Malphite/malphite_ru_RU_base_Move_Standard_04.m4a",
+                "text_ru": "Быстрее я не смогу.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Malzahar": {
+        "quotes": [
+            {
+                "audio_en": "audio/Malzahar/malzahar_ru_RU_base_Attack_General_01.m4a",
+                "audio_ru": "audio/Malzahar/malzahar_ru_RU_base_Attack_General_01.m4a",
+                "text_ru": "За Бездну.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Malzahar/malzahar_ru_RU_base_Taunt_General_02.m4a",
+                "audio_ru": "audio/Malzahar/malzahar_ru_RU_base_Taunt_General_02.m4a",
+                "text_ru": "Преклонись перед Бездной или будь уничтожен!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Maokai": {
+        "quotes": [
+            {
+                "audio_en": "audio/Maokai/maokai_ru_RU_base_First_Encounter_Bard.m4a",
+                "audio_ru": "audio/Maokai/maokai_ru_RU_base_First_Encounter_Bard.m4a",
+                "text_ru": "Слушаю тебя и радуюсь, что у меня нет ушей.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Maokai/maokai_ru_RU_base_First_Encounter_Elise_01.m4a",
+                "audio_ru": "audio/Maokai/maokai_ru_RU_base_First_Encounter_Elise_01.m4a",
+                "text_ru": "На что только люди не идут ради красоты. И убивают, и носят туфли на шпильках!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Maokai/maokai_ru_RU_base_Move_First_01.m4a",
+                "audio_ru": "audio/Maokai/maokai_ru_RU_base_Move_First_01.m4a",
+                "text_ru": "Жизнь может вернуться, если мы вспашем землю яростью войны.",
+                "text_en": ""
+            }
+        ]
+    },
+    "MasterYi": {
+        "quotes": [
+            {
+                "audio_en": "audio/MasterYi/masteryi_ru_RU_base_First_Encounter_Wukong_02.m4a",
+                "audio_ru": "audio/MasterYi/masteryi_ru_RU_base_First_Encounter_Wukong_02.m4a",
+                "text_ru": "Ну, ученик, показывай, чему научился.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/MasterYi/masteryi_ru_RU_base_Move_Standard_01.m4a",
+                "audio_ru": "audio/MasterYi/masteryi_ru_RU_base_Move_Standard_01.m4a",
+                "text_ru": "Настоящий мастер – это вечный ученик.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Mel": {
+        "quotes": [
+            {
+                "audio_en": "audio/Mel/mel_ru_RU_base_First_Encounter_Caitlyn.m4a",
+                "audio_ru": "audio/Mel/mel_ru_RU_base_First_Encounter_Caitlyn.m4a",
+                "text_ru": "Наш союз был плодотворным, Кираман. Жаль, что его больше нет.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Mel/mel_ru_RU_base_First_Encounter_Jinx.m4a",
+                "audio_ru": "audio/Mel/mel_ru_RU_base_First_Encounter_Jinx.m4a",
+                "text_ru": "Один раз я проглядела твои бесчинства, Джинкс. Эту ошибку я не повторю",
+                "text_en": ""
+            }
+        ]
+    },
+    "Milio": {
+        "quotes": [
+            {
+                "audio_en": "audio/Milio/milio_ru_RU_base_First_Encounter_Amumu.m4a",
+                "audio_ru": "audio/Milio/milio_ru_RU_base_First_Encounter_Amumu.m4a",
+                "text_ru": "Что случилось, маленькая мумия? Хочешь, я тебя обниму?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Milio/milio_ru_RU_base_First_Encounter_Annie.m4a",
+                "audio_ru": "audio/Milio/milio_ru_RU_base_First_Encounter_Annie.m4a",
+                "text_ru": "Какой у тебя милый плюшевый мишка. Как его зовут?",
+                "text_en": ""
+            }
+        ]
+    },
+    "MissFortune": {
+        "quotes": [
+            {
+                "audio_en": "audio/MissFortune/missfortune_ru_RU_base_Attack_General_01.m4a",
+                "audio_ru": "audio/MissFortune/missfortune_ru_RU_base_Attack_General_01.m4a",
+                "text_ru": "Я всегда стреляю первой.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/MissFortune/missfortune_ru_RU_base_Move_Standard_01.m4a",
+                "audio_ru": "audio/MissFortune/missfortune_ru_RU_base_Move_Standard_01.m4a",
+                "text_ru": "Не дерзи.",
+                "text_en": ""
+            }
+        ]
+    },
+    "MonkeyKing": {
+        "quotes": [
+            {
+                "audio_en": "audio/MonkeyKing/monkeyking_ru_RU_base_Joke_General_02.m4a",
+                "audio_ru": "audio/MonkeyKing/monkeyking_ru_RU_base_Joke_General_02.m4a",
+                "text_ru": "Независимо от того, как высоко банан, я его достану!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/MonkeyKing/monkeyking_ru_RU_base_Taunt_General.m4a",
+                "audio_ru": "audio/MonkeyKing/monkeyking_ru_RU_base_Taunt_General.m4a",
+                "text_ru": "Поработай над собой, а потом найди меня!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Mordekaiser": {
+        "quotes": [
+            {
+                "audio_en": "audio/Mordekaiser/mordekaiser_ru_RU_base_First_Encounter_Karthus.m4a",
+                "audio_ru": "audio/Mordekaiser/mordekaiser_ru_RU_base_First_Encounter_Karthus.m4a",
+                "text_ru": "В смерти нет смысла, Картус. Важно то, что ты делаешь после неё.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Mordekaiser/mordekaiser_ru_RU_base_First_Encounter_Leblanc.m4a",
+                "audio_ru": "audio/Mordekaiser/mordekaiser_ru_RU_base_First_Encounter_Leblanc.m4a",
+                "text_ru": "А, Чёрная Роза. Я помню тебя, ничтожный манипулятор.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Morgana": {
+        "quotes": [
+            {
+                "audio_en": "audio/Morgana/morgana_ru_RU_base_Joke_Loves_Me.m4a",
+                "audio_ru": "audio/Morgana/morgana_ru_RU_base_Joke_Loves_Me.m4a",
+                "text_ru": "Любит, не любит, любит, не любит… любит!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Morgana/morgana_ru_RU_base_Taunt_General_02.m4a",
+                "audio_ru": "audio/Morgana/morgana_ru_RU_base_Taunt_General_02.m4a",
+                "text_ru": "Ты из смертных, тебе напомнить об этом?",
+                "text_en": ""
+            }
+        ]
+    },
+    "Naafiri": {
+        "quotes": [
+            {
+                "audio_en": "audio/Naafiri/naafiri_ru_RU_base_First_Encounter_Aatrox_01.m4a",
+                "audio_ru": "audio/Naafiri/naafiri_ru_RU_base_First_Encounter_Aatrox_01.m4a",
+                "text_ru": "Упрямый Атрокс... так стремиться к смерти!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Naafiri/naafiri_ru_RU_base_First_Encounter_Kayn_01.m4a",
+                "audio_ru": "audio/Naafiri/naafiri_ru_RU_base_First_Encounter_Kayn_01.m4a",
+                "text_ru": "Это ты, Рааст? Мне нравится твой смертный.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Nami": {
+        "quotes": [
+            {
+                "audio_en": "audio/Nami/nami_ru_RU_base_Nami_R_cast_03.m4a",
+                "audio_ru": "audio/Nami/nami_ru_RU_base_Nami_R_cast_03.m4a",
+                "text_ru": "Цунами!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Nami/nami_ru_RU_base_Kill_Water.m4a",
+                "audio_ru": "audio/Nami/nami_ru_RU_base_Kill_Water.m4a",
+                "text_ru": "Остынь, прыскалка",
+                "text_en": ""
+            }
+        ]
+    },
+    "Nasus": {
+        "quotes": [
+            {
+                "audio_en": "audio/Nasus/nasus_ru_RU_base_First_Encounter_Xerath_02.m4a",
+                "audio_ru": "audio/Nasus/nasus_ru_RU_base_First_Encounter_Xerath_02.m4a",
+                "text_ru": "Зерат, я заставлю тебя ответить за предательство.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Nasus/nasus_ru_RU_base_First_Encounter_Renekton_01.m4a",
+                "audio_ru": "audio/Nasus/nasus_ru_RU_base_First_Encounter_Renekton_01.m4a",
+                "text_ru": "Ярость спалила всё хорошее, что было в тебе, брат.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Nasus/nasus_ru_RU_base_Joke_General_02.m4a",
+                "audio_ru": "audio/Nasus/nasus_ru_RU_base_Joke_General_02.m4a",
+                "text_ru": "Кто выпустил собак? Гав. Гав-гав.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Nautilus": {
+        "quotes": [
+            {
+                "audio_en": "audio/Nautilus/nautilus_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Nautilus/nautilus_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Этот якорь – как чемодан без ручки: таскать тяжело, бросить жалко.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Nautilus/nautilus_ru_RU_base_Move_Standard_03.m4a",
+                "audio_ru": "audio/Nautilus/nautilus_ru_RU_base_Move_Standard_03.m4a",
+                "text_ru": "Меня бросили и забыли.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Neeko": {
+        "quotes": [
+            {
+                "audio_en": "audio/Neeko/neeko_ru_RU_base_First_Encounter_Nidalee.m4a",
+                "audio_ru": "audio/Neeko/neeko_ru_RU_base_First_Encounter_Nidalee.m4a",
+                "text_ru": "Нидали! Странно видеть тебя здесь. Нико соскучилась!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Neeko/neeko_ru_RU_base_First_Encounter_Rengar.m4a",
+                "audio_ru": "audio/Neeko/neeko_ru_RU_base_First_Encounter_Rengar.m4a",
+                "text_ru": "Брысь, Ренгар! Надо быть милее и добрее. Как Нидали!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Neeko/neeko_ru_RU_base_First_Encounter_Zyra.m4a",
+                "audio_ru": "audio/Neeko/neeko_ru_RU_base_First_Encounter_Zyra.m4a",
+                "text_ru": "У Зайры много шипов. Нико не пробраться!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Nidalee": {
+        "quotes": [
+            {
+                "audio_en": "audio/Nidalee/nidalee_ru_RU_base_First_Encounter_Neeko.m4a",
+                "audio_ru": "audio/Nidalee/nidalee_ru_RU_base_First_Encounter_Neeko.m4a",
+                "text_ru": "Дружба может принимать разные формы. Как и ты, Нико.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Nidalee/nidalee_ru_RU_base_First_Encounter_Qiyana.m4a",
+                "audio_ru": "audio/Nidalee/nidalee_ru_RU_base_First_Encounter_Qiyana.m4a",
+                "text_ru": "Долго ли ты проживёшь, выйдя из золотого дворца, принцесса?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Nidalee/nidalee_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Nidalee/nidalee_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Мяу. Мяу-мяу. Мяу-мяу-мяу-мяу. Дошло?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Nidalee/nidalee_ru_RU_base_Move_First_02.m4a",
+                "audio_ru": "audio/Nidalee/nidalee_ru_RU_base_Move_First_02.m4a",
+                "text_ru": "Меднокостные хотят покорить джунгли, но природа неукротима!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Nilah": {
+        "quotes": [
+            {
+                "audio_en": "audio/Nilah/nilah_ru_RU_base_First_Encounter_Fiddlesticks_02.m4a",
+                "audio_ru": "audio/Nilah/nilah_ru_RU_base_First_Encounter_Fiddlesticks_02.m4a",
+                "text_ru": "Повелитель страха, я знаю, кто ты на самом деле. И знаю, как тебя убить.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Nilah/nilah_ru_RU_base_First_Encounter_Mordekaiser_02.m4a",
+                "audio_ru": "audio/Nilah/nilah_ru_RU_base_First_Encounter_Mordekaiser_02.m4a",
+                "text_ru": "Я знаю, кто ты, Сахн-Азал. Ты слаб, если боишься смерти.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Nilah/nilah_ru_RU_base_First_Encounter_Pantheon_02.m4a",
+                "audio_ru": "audio/Nilah/nilah_ru_RU_base_First_Encounter_Pantheon_02.m4a",
+                "text_ru": "Атрей, верно? Мало кто достоин такой мощи, как наша.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Nocturne": {
+        "quotes": [
+            {
+                "audio_en": "audio/Nocturne/nocturne_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Nocturne/nocturne_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Прогноз погоды на сегодня: будет пасмурно и, возможно, больно.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Nocturne/nocturne_ru_RU_base_Move_Standard_04.m4a",
+                "audio_ru": "audio/Nocturne/nocturne_ru_RU_base_Move_Standard_04.m4a",
+                "text_ru": "Окунись в ужас.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Nunu": {
+        "quotes": [
+            {
+                "audio_en": "audio/Nunu/nunu_ru_RU_base_First_Encounter_Braum_01.m4a",
+                "audio_ru": "audio/Nunu/nunu_ru_RU_base_First_Encounter_Braum_01.m4a",
+                "text_ru": "Браум! Я знал, что ты настоящий. Будешь моим папой?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Nunu/nunu_ru_RU_base_First_Encounter_Lissandra_02.m4a",
+                "audio_ru": "audio/Nunu/nunu_ru_RU_base_First_Encounter_Lissandra_02.m4a",
+                "text_ru": "Я докажу Морозным стражам, что я тоже герой!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Nunu/nunu_ru_RU_base_First_Encounter_Ornn_01.m4a",
+                "audio_ru": "audio/Nunu/nunu_ru_RU_base_First_Encounter_Ornn_01.m4a",
+                "text_ru": "Драка может научить многому. Например, как простить брата.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Olaf": {
+        "quotes": [
+            {
+                "audio_en": "audio/Olaf/olaf_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Olaf/olaf_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Оценить, чего стоит мужик, можно по длине его бороды и по размеру его… орудия!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Olaf/olaf_ru_RU_base_Move_Standard_04.m4a",
+                "audio_ru": "audio/Olaf/olaf_ru_RU_base_Move_Standard_04.m4a",
+                "text_ru": "Близится мощь Локфара.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Olaf/olaf_ru_RU_base_Taunt_General.m4a",
+                "audio_ru": "audio/Olaf/olaf_ru_RU_base_Taunt_General.m4a",
+                "text_ru": "Чё зажался? Я ж не трону. Зуб даю.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Orianna": {
+        "quotes": [
+            {
+                "audio_en": "audio/Orianna/orianna_ru_RU_base_Move_Standard_03.m4a",
+                "audio_ru": "audio/Orianna/orianna_ru_RU_base_Move_Standard_03.m4a",
+                "text_ru": "Шарик в нетерпении.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Orianna/orianna_ru_RU_base_Move_Standard_06.m4a",
+                "audio_ru": "audio/Orianna/orianna_ru_RU_base_Move_Standard_06.m4a",
+                "text_ru": "Завожусь.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Orianna/orianna_ru_RU_base_Taunt_General.m4a",
+                "audio_ru": "audio/Orianna/orianna_ru_RU_base_Taunt_General.m4a",
+                "text_ru": "Я знаю, почему они тикают. И я знаю, как сделать так, чтобы они перестали.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Ornn": {
+        "quotes": [
+            {
+                "audio_en": "audio/Ornn/ornn_ru_RU_base_Joke_Response_General_01.m4a",
+                "audio_ru": "audio/Ornn/ornn_ru_RU_base_Joke_Response_General_01.m4a",
+                "text_ru": "Теперь ты мне нравишься меньше. Не думал, что это возможно.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Ornn/ornn_ru_RU_base_Respawn_General_05.m4a",
+                "audio_ru": "audio/Ornn/ornn_ru_RU_base_Respawn_General_05.m4a",
+                "text_ru": "Я не умирал. По кузне соскучился.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Pantheon": {
+        "quotes": [
+            {
+                "audio_en": "audio/Pantheon/pantheon_ru_RU_base_First_Encounter_Aatrox_01.m4a",
+                "audio_ru": "audio/Pantheon/pantheon_ru_RU_base_First_Encounter_Aatrox_01.m4a",
+                "text_ru": "Атрокс, Губитель мира! Ты знаешь, что смерть порождает жизнь?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Pantheon/pantheon_ru_RU_base_First_Encounter_Kayn.m4a",
+                "audio_ru": "audio/Pantheon/pantheon_ru_RU_base_First_Encounter_Kayn.m4a",
+                "text_ru": "Кто из вас лишний, Каин? Ты или твоё оружие?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Pantheon/pantheon_ru_RU_base_First_Encounter_Soraka.m4a",
+                "audio_ru": "audio/Pantheon/pantheon_ru_RU_base_First_Encounter_Soraka.m4a",
+                "text_ru": "Жаль, что твои сородичи не видят того же, что и ты, Сорака. Они забрали бы твою боль, как ты забираешь нашу.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Poppy": {
+        "quotes": [
+            {
+                "audio_en": "audio/Poppy/poppy_ru_RU_base_First_Encounter_Jayce.m4a",
+                "audio_ru": "audio/Poppy/poppy_ru_RU_base_First_Encounter_Jayce.m4a",
+                "text_ru": "Разве это молот? Вот это молот.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Poppy/poppy_ru_RU_base_First_Encounter_Leona.m4a",
+                "audio_ru": "audio/Poppy/poppy_ru_RU_base_First_Encounter_Leona.m4a",
+                "text_ru": "Доспехи так и сверкают. Жаль, придётся их попортить.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Pyke": {
+        "quotes": [
+            {
+                "audio_en": "audio/Pyke/pyke_ru_RU_skin01_First_Encounter_Ezreal.m4a",
+                "audio_ru": "audio/Pyke/pyke_ru_RU_skin01_First_Encounter_Ezreal.m4a",
+                "text_ru": "Какая мордашка. Даже жалко втыкать крюк.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Pyke/pyke_ru_RU_skin01_First_Encounter_Gangplank.m4a",
+                "audio_ru": "audio/Pyke/pyke_ru_RU_skin01_First_Encounter_Gangplank.m4a",
+                "text_ru": "В следующий раз ты выйдешь в море в гробу.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Pyke/pyke_ru_RU_skin01_First_Encounter_Miss_Fortune.m4a",
+                "audio_ru": "audio/Pyke/pyke_ru_RU_skin01_First_Encounter_Miss_Fortune.m4a",
+                "text_ru": "Сейчас посмотрим, не тонка ли у тебя кишка.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Qiyana": {
+        "quotes": [
+            {
+                "audio_en": "audio/Qiyana/qiyana_ru_RU_base_First_Encounter_Ixtal.m4a",
+                "audio_ru": "audio/Qiyana/qiyana_ru_RU_base_First_Encounter_Ixtal.m4a",
+                "text_ru": "Как ты смеешь поднимать руку на законную правительницу? Estem qa'eve!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Qiyana/qiyana_ru_RU_base_First_Encounter_Neeko.m4a",
+                "audio_ru": "audio/Qiyana/qiyana_ru_RU_base_First_Encounter_Neeko.m4a",
+                "text_ru": "Совершенство нельзя скопировать, ящерка.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Qiyana/qiyana_ru_RU_base_First_Encounter_Zyra.m4a",
+                "audio_ru": "audio/Qiyana/qiyana_ru_RU_base_First_Encounter_Zyra.m4a",
+                "text_ru": "Лес повинуется мне, Зайра. Ты тоже покоришься.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Quinn": {
+        "quotes": [
+            {
+                "audio_en": "audio/Quinn/quinn_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Quinn/quinn_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Кто там? — Что за Фиора Фиора? — Вэлор, так нельзя!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Quinn/quinn_ru_RU_base_Move_Standard_08.m4a",
+                "audio_ru": "audio/Quinn/quinn_ru_RU_base_Move_Standard_08.m4a",
+                "text_ru": "Мы, демасийцы, не лёгкая добыча.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Rakan": {
+        "quotes": [
+            {
+                "audio_en": "audio/Rakan/rakan_ru_RU_base_First_Encounter_Rengar_01.m4a",
+                "audio_ru": "audio/Rakan/rakan_ru_RU_base_First_Encounter_Rengar_01.m4a",
+                "text_ru": "У тебя только тигриный прикид? Попробуй расширить горизонт.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Rakan/rakan_ru_RU_base_First_Encounter_Rengar_03.m4a",
+                "audio_ru": "audio/Rakan/rakan_ru_RU_base_First_Encounter_Rengar_03.m4a",
+                "text_ru": "Так ты… просто бегаешь по джунглям? Не думай, я не осуждаю. Главное, чтобы тебе нравилось! Зануда…",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Rakan/rakan_ru_RU_base_Kill_Xayah_01.m4a",
+                "audio_ru": "audio/Rakan/rakan_ru_RU_base_Kill_Xayah_01.m4a",
+                "text_ru": "Остался один. Остался один!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Rammus": {
+        "quotes": [
+            {
+                "audio_en": "audio/Rammus/rammus_ru_RU_base_Attack_General_01.m4a",
+                "audio_ru": "audio/Rammus/rammus_ru_RU_base_Attack_General_01.m4a",
+                "text_ru": "Ладно.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Rammus/rammus_ru_RU_base_Attack_General_02.m4a",
+                "audio_ru": "audio/Rammus/rammus_ru_RU_base_Attack_General_02.m4a",
+                "text_ru": "ОК.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Rell": {
+        "quotes": [
+            {
+                "audio_en": "audio/Rell/rell_ru_RU_base_First_Encounter_Cassiopeia.m4a",
+                "audio_ru": "audio/Rell/rell_ru_RU_base_First_Encounter_Cassiopeia.m4a",
+                "text_ru": "Я тебе кости переломаю, гадюка!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Rell/rell_ru_RU_base_First_Encounter_Ekko.m4a",
+                "audio_ru": "audio/Rell/rell_ru_RU_base_First_Encounter_Ekko.m4a",
+                "text_ru": "Тебя зовут Экко? Клёвое имя… Кстати… Я тоже клёвая.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Rell/rell_ru_RU_base_First_Encounter_Leblanc.m4a",
+                "audio_ru": "audio/Rell/rell_ru_RU_base_First_Encounter_Leblanc.m4a",
+                "text_ru": "Эй, Ле Блан! Передай маме, что я оторву ей башку!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Renata": {
+        "quotes": [
+            {
+                "audio_en": "audio/Renata/renata_ru_RU_base_First_Encounter_Jinx_01.m4a",
+                "audio_ru": "audio/Renata/renata_ru_RU_base_First_Encounter_Jinx_01.m4a",
+                "text_ru": "Ты забавная, Джинкс. Но твой талант пропадает впустую.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Renata/renata_ru_RU_base_First_Encounter_Singed_07.m4a",
+                "audio_ru": "audio/Renata/renata_ru_RU_base_First_Encounter_Singed_07.m4a",
+                "text_ru": "Мы ведь столького могли бы достичь вместе, Синджед. Жаль. Очень жаль.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Renata/renata_ru_RU_base_First_Encounter_Viktor_01.m4a",
+                "audio_ru": "audio/Renata/renata_ru_RU_base_First_Encounter_Viktor_01.m4a",
+                "text_ru": "Не забывай, на чьи средства ты стал тем, кто ты есть, Виктор!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Renekton": {
+        "quotes": [
+            {
+                "audio_en": "audio/Renekton/renekton_ru_RU_base_First_Encounter_Nasus_01.m4a",
+                "audio_ru": "audio/Renekton/renekton_ru_RU_base_First_Encounter_Nasus_01.m4a",
+                "text_ru": "Хотел запереть меня в тюрьме, Насус? Надо было лучше стараться!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Renekton/renekton_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Renekton/renekton_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Чтооо?! Кто-то застрял у меня в зубах?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Renekton/renekton_ru_RU_base_Move_First_Ally_Xerath_02.m4a",
+                "audio_ru": "audio/Renekton/renekton_ru_RU_base_Move_First_Ally_Xerath_02.m4a",
+                "text_ru": "Мы так долго провели взаперти, Зерат! Зря они дали нам выбраться!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Rengar": {
+        "quotes": [
+            {
+                "audio_en": "audio/Rengar/rengar_ru_RU_base_First_Encounter_Khazix_02.m4a",
+                "audio_ru": "audio/Rengar/rengar_ru_RU_base_First_Encounter_Khazix_02.m4a",
+                "text_ru": "Я тебя вижу, жалкое существо!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Rengar/rengar_ru_RU_base_Joke_General_02.m4a",
+                "audio_ru": "audio/Rengar/rengar_ru_RU_base_Joke_General_02.m4a",
+                "text_ru": "Ааа, все эти трофеи… Мне потребуется логово побольше.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Rengar/rengar_ru_RU_base_Taunt_General_01.m4a",
+                "audio_ru": "audio/Rengar/rengar_ru_RU_base_Taunt_General_01.m4a",
+                "text_ru": "Для тебя это славная смерть, а для меня – заслуженное убийство!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Riven": {
+        "quotes": [
+            {
+                "audio_en": "audio/Riven/riven_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Riven/riven_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Так и знала, что надо было брать страховку на меч.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Riven/riven_ru_RU_base_Move_Standard_10.m4a",
+                "audio_ru": "audio/Riven/riven_ru_RU_base_Move_Standard_10.m4a",
+                "text_ru": "Каков меч, таков и хозяин.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Rumble": {
+        "quotes": [
+            {
+                "audio_en": "audio/Rumble/rumble_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Rumble/rumble_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Врубаю турбо! — Придётся по старинке запустить с толкача.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Rumble/rumble_ru_RU_base_Move_Standard_02.m4a",
+                "audio_ru": "audio/Rumble/rumble_ru_RU_base_Move_Standard_02.m4a",
+                "text_ru": "Приходилось смотреть на йордла снизу вверх?",
+                "text_en": ""
+            }
+        ]
+    },
+    "Ryze": {
+        "quotes": [
+            {
+                "audio_en": "audio/Ryze/ryze_ru_RU_base_First_Encounter_Ahri.m4a",
+                "audio_ru": "audio/Ryze/ryze_ru_RU_base_First_Encounter_Ahri.m4a",
+                "text_ru": "Ты очаровательна. Но я не любитель лесной живности.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Ryze/ryze_ru_RU_base_First_Encounter_Aurelion_Sol.m4a",
+                "audio_ru": "audio/Ryze/ryze_ru_RU_base_First_Encounter_Aurelion_Sol.m4a",
+                "text_ru": "Звонил космос, спрашивал, когда вернётся его высокомерный болван.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Ryze/ryze_ru_RU_base_First_Encounter_Illaoi.m4a",
+                "audio_ru": "audio/Ryze/ryze_ru_RU_base_First_Encounter_Illaoi.m4a",
+                "text_ru": "Классные татуировки. А они проводят энергию рун? Нет? Печально.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Ryze/ryze_ru_RU_base_First_Encounter_Yordle.m4a",
+                "audio_ru": "audio/Ryze/ryze_ru_RU_base_First_Encounter_Yordle.m4a",
+                "text_ru": "Даже такие, как ты, погибнут в катаклизме.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Samira": {
+        "quotes": [
+            {
+                "audio_en": "audio/Samira/samira_ru_RU_base_First_Encounter_Ezreal.m4a",
+                "audio_ru": "audio/Samira/samira_ru_RU_base_First_Encounter_Ezreal.m4a",
+                "text_ru": "Эта перчатка заслуживает хозяина получше.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Samira/samira_ru_RU_base_First_Encounter_Xerath.m4a",
+                "audio_ru": "audio/Samira/samira_ru_RU_base_First_Encounter_Xerath.m4a",
+                "text_ru": "Зерат. Такие, как ты, уничтожили мой дом. Теперь я уничтожу тебя!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Sejuani": {
+        "quotes": [
+            {
+                "audio_en": "audio/Sejuani/sejuani_ru_RU_base_First_Encounter_Ashe_02.m4a",
+                "audio_ru": "audio/Sejuani/sejuani_ru_RU_base_First_Encounter_Ashe_02.m4a",
+                "text_ru": "Что проще сломать: лук или тебя?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Sejuani/sejuani_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Sejuani/sejuani_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Кто хочет вкусняшку? Щетинка? Только после того, как втопчем врагов в пыль!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Sejuani/sejuani_ru_RU_base_Move_Standard_07.m4a",
+                "audio_ru": "audio/Sejuani/sejuani_ru_RU_base_Move_Standard_07.m4a",
+                "text_ru": "Щетинка сегодня голодна.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Senna": {
+        "quotes": [
+            {
+                "audio_en": "audio/Senna/senna_ru_RU_base_First_Encounter_Demacia.m4a",
+                "audio_ru": "audio/Senna/senna_ru_RU_base_First_Encounter_Demacia.m4a",
+                "text_ru": "Когда туман пришёл на мой остров, врата Демасии были закрыты. Откроются ли они, когда вам понадобится помощь?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Senna/senna_ru_RU_base_First_Encounter_Lucian_01.m4a",
+                "audio_ru": "audio/Senna/senna_ru_RU_base_First_Encounter_Lucian_01.m4a",
+                "text_ru": "Тебе хватило упрямства не только сразиться со мной, но и полюбить меня.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Senna/senna_ru_RU_base_First_Encounter_Thresh_01.m4a",
+                "audio_ru": "audio/Senna/senna_ru_RU_base_First_Encounter_Thresh_01.m4a",
+                "text_ru": "В самой глубине твоего фонаря живёт запуганная и сломанная душа. Кажется, она твоя.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Seraphine": {
+        "quotes": [
+            {
+                "audio_en": "audio/Seraphine/seraphine_ru_RU_base_First_Encounter_Azir.m4a",
+                "audio_ru": "audio/Seraphine/seraphine_ru_RU_base_First_Encounter_Azir.m4a",
+                "text_ru": "Азир, я тоже попробую! – Шурима! (смех)",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Seraphine/seraphine_ru_RU_base_First_Encounter_Sona.m4a",
+                "audio_ru": "audio/Seraphine/seraphine_ru_RU_base_First_Encounter_Sona.m4a",
+                "text_ru": "О… Сона… Твоя песня… просто… бомба!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Sett": {
+        "quotes": [
+            {
+                "audio_en": "audio/Sett/sett_ru_RU_base_First_Encounter_Noxus_03.m4a",
+                "audio_ru": "audio/Sett/sett_ru_RU_base_First_Encounter_Noxus_03.m4a",
+                "text_ru": "Мой папаша тоже был из Ноксуса, но я постараюсь быть непредвзятым.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Sett/sett_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Sett/sett_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Люблю тебя, мамочка. До завтра. Чмок.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Shaco": {
+        "quotes": [
+            {
+                "audio_en": "audio/Shaco/shaco_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Shaco/shaco_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Мой следующий фокус – я сделаю так, что ты исчезнешь! (смех)",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Shaco/shaco_ru_RU_base_Move_Standard_04.m4a",
+                "audio_ru": "audio/Shaco/shaco_ru_RU_base_Move_Standard_04.m4a",
+                "text_ru": "Вот я есть, а вот меня нет!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Shen": {
+        "quotes": [
+            {
+                "audio_en": "audio/Shen/shen_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Shen/shen_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Если свет такой быстрый, то почему он ни разу не поймал ниндзя?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Shen/shen_ru_RU_base_Move_Standard_06.m4a",
+                "audio_ru": "audio/Shen/shen_ru_RU_base_Move_Standard_06.m4a",
+                "text_ru": "Из тени.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Shyvana": {
+        "quotes": [
+            {
+                "audio_en": "audio/Shyvana/shyvana_ru_RU_base_First_Encounter_Aurelion_Sol.m4a",
+                "audio_ru": "audio/Shyvana/shyvana_ru_RU_base_First_Encounter_Aurelion_Sol.m4a",
+                "text_ru": "Драконы звезд... Потрясающе.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Shyvana/shyvana_ru_RU_base_First_Encounter_Jarvan_IV.m4a",
+                "audio_ru": "audio/Shyvana/shyvana_ru_RU_base_First_Encounter_Jarvan_IV.m4a",
+                "text_ru": "Что это за... Наглый детеныш?",
+                "text_en": ""
+            }
+        ]
+    },
+    "Singed": {
+        "quotes": [
+            {
+                "audio_en": "audio/Singed/singed_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Singed/singed_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Взболтать, не перемешивая.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Singed/singed_ru_RU_base_Move_Standard_01.m4a",
+                "audio_ru": "audio/Singed/singed_ru_RU_base_Move_Standard_01.m4a",
+                "text_ru": "Смешать, перемешать, взболтать… и опять смешать.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Sion": {
+        "quotes": [
+            {
+                "audio_en": "audio/Sion/sion_ru_RU_base_First_Encounter_Galio_01.m4a",
+                "audio_ru": "audio/Sion/sion_ru_RU_base_First_Encounter_Galio_01.m4a",
+                "text_ru": "Кто-то из нас наконец-то умрёт сегодня.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Sion/sion_ru_RU_base_First_Encounter_Karthus.m4a",
+                "audio_ru": "audio/Sion/sion_ru_RU_base_First_Encounter_Karthus.m4a",
+                "text_ru": "Даже смерть трепещет при виде меня.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Sivir": {
+        "quotes": [
+            {
+                "audio_en": "audio/Sivir/sivir_ru_RU_base_First_Encounter_Cassiopeia_01.m4a",
+                "audio_ru": "audio/Sivir/sivir_ru_RU_base_First_Encounter_Cassiopeia_01.m4a",
+                "text_ru": "Теперь всем видна твоя истинная красота, Кассиопея.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Sivir/sivir_ru_RU_base_First_Encounter_Renekton_01.m4a",
+                "audio_ru": "audio/Sivir/sivir_ru_RU_base_First_Encounter_Renekton_01.m4a",
+                "text_ru": "Думаю, мне пойдут сапожки из крокодиловой кожи.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Sivir/sivir_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Sivir/sivir_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Говорят, пустыня – жестокая возлюбленная. Ох, как мне это нравится.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Skarner": {
+        "quotes": [
+            {
+                "audio_en": "audio/Skarner/skarner_ru_RU_base_First_Encounter5_DTaliyah.m4a",
+                "audio_ru": "audio/Skarner/skarner_ru_RU_base_First_Encounter5_DTaliyah.m4a",
+                "text_ru": "Ты прядешь камни, Талия. А я ими повелеваю.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Skarner/skarner_ru_RU_base_First_Encounter5_DVoid.m4a",
+                "audio_ru": "audio/Skarner/skarner_ru_RU_base_First_Encounter5_DVoid.m4a",
+                "text_ru": "Я избавлю эти земли от мерзких порождений Бездны!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Smolder": {
+        "quotes": [
+            {
+                "audio_en": "audio/Smolder/smolder_ru_RU_base_First_Encounter_Aurelion_Sol.m4a",
+                "audio_ru": "audio/Smolder/smolder_ru_RU_base_First_Encounter_Aurelion_Sol.m4a",
+                "text_ru": "А зачем тебе корона, Арулео Зол?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Smolder/smolder_ru_RU_base_First_Encounter_Jarvan_IV.m4a",
+                "audio_ru": "audio/Smolder/smolder_ru_RU_base_First_Encounter_Jarvan_IV.m4a",
+                "text_ru": "Хм, почему от этого парня в доспехах пахнет драконом?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Smolder/smolder_ru_RU_base_First_Encounter_Shyvana.m4a",
+                "audio_ru": "audio/Smolder/smolder_ru_RU_base_First_Encounter_Shyvana.m4a",
+                "text_ru": "Ух ты! Как ты научилась так здорово притворяться человеком, Шивана?",
+                "text_en": ""
+            }
+        ]
+    },
+    "Sona": {
+        "quotes": [
+            {
+                "audio_en": "audio/Sona/sona_ru_RU_base_First_Encounter_Jhin.m4a",
+                "audio_ru": "audio/Sona/sona_ru_RU_base_First_Encounter_Jhin.m4a",
+                "text_ru": "Мы разве знакомы? Может, он мой поклонник?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Sona/sona_ru_RU_base_Move_First_03.m4a",
+                "audio_ru": "audio/Sona/sona_ru_RU_base_Move_First_03.m4a",
+                "text_ru": "Ах… Занавес поднимается. Я готова.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Soraka": {
+        "quotes": [
+            {
+                "audio_en": "audio/Soraka/soraka_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Soraka/soraka_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Нет, я не рада тебя видеть. Да, это рог, растущий из моей головы.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Soraka/soraka_ru_RU_base_Move_Standard_08.m4a",
+                "audio_ru": "audio/Soraka/soraka_ru_RU_base_Move_Standard_08.m4a",
+                "text_ru": "Исцелять и защищать.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Swain": {
+        "quotes": [
+            {
+                "audio_en": "audio/Swain/swain_ru_RU_base_First_Encounter_Katarina.m4a",
+                "audio_ru": "audio/Swain/swain_ru_RU_base_First_Encounter_Katarina.m4a",
+                "text_ru": "Они уже знают, кто на самом деле убил твоего отца? Или всё ещё винят меня?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Swain/swain_ru_RU_base_First_Encounter_Singed.m4a",
+                "audio_ru": "audio/Swain/swain_ru_RU_base_First_Encounter_Singed.m4a",
+                "text_ru": "А почему этот неудачный эксперимент Дарквилла ещё жив?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Swain/swain_ru_RU_base_Move_First_02.m4a",
+                "audio_ru": "audio/Swain/swain_ru_RU_base_Move_First_02.m4a",
+                "text_ru": "Всё как и говорили шпионы. Хех… Поторопился я с казнью…",
+                "text_en": ""
+            }
+        ]
+    },
+    "Sylas": {
+        "quotes": [
+            {
+                "audio_en": "audio/Sylas/sylas_ru_RU_base_First_Encounter_Jarvan_IV_01.m4a",
+                "audio_ru": "audio/Sylas/sylas_ru_RU_base_First_Encounter_Jarvan_IV_01.m4a",
+                "text_ru": "Джарван! Скажи, где повесить твоё королевское высочество?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Sylas/sylas_ru_RU_base_First_Encounter_Lux_02.m4a",
+                "audio_ru": "audio/Sylas/sylas_ru_RU_base_First_Encounter_Lux_02.m4a",
+                "text_ru": "Я сохраню твою тайну, Люксанна. А ты помни мою доброту.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Sylas/sylas_ru_RU_base_First_Encounter_Noxus.m4a",
+                "audio_ru": "audio/Sylas/sylas_ru_RU_base_First_Encounter_Noxus.m4a",
+                "text_ru": "Ноксианские свиньи, демасийские свиньи – какая разница? Все окажутся на бойне.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Syndra": {
+        "quotes": [
+            {
+                "audio_en": "audio/Syndra/syndra_ru_RU_base_Move_Standard_06.m4a",
+                "audio_ru": "audio/Syndra/syndra_ru_RU_base_Move_Standard_06.m4a",
+                "text_ru": "Целый мир, с которым можно играть.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Syndra/syndra_ru_RU_base_Taunt_General_01.m4a",
+                "audio_ru": "audio/Syndra/syndra_ru_RU_base_Taunt_General_01.m4a",
+                "text_ru": "Безграничная мощь – это весело. Попробуй как-нибудь.",
+                "text_en": ""
+            }
+        ]
+    },
+    "TahmKench": {
+        "quotes": [
+            {
+                "audio_en": "audio/TahmKench/tahmkench_ru_RU_base_Move_Standard_07.m4a",
+                "audio_ru": "audio/TahmKench/tahmkench_ru_RU_base_Move_Standard_07.m4a",
+                "text_ru": "Все реки впадают в меня!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/TahmKench/tahmkench_ru_RU_base_Move_Standard_10.m4a",
+                "audio_ru": "audio/TahmKench/tahmkench_ru_RU_base_Move_Standard_10.m4a",
+                "text_ru": "Мой рацион чрезвычайно разнообразен.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Taliyah": {
+        "quotes": [
+            {
+                "audio_en": "audio/Taliyah/taliyah_ru_RU_base_First_Encounter_Aurelion_Sol.m4a",
+                "audio_ru": "audio/Taliyah/taliyah_ru_RU_base_First_Encounter_Aurelion_Sol.m4a",
+                "text_ru": "Даже маленький камушек может потрясти небеса.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Taliyah/taliyah_ru_RU_base_First_Encounter_Malphite_01.m4a",
+                "audio_ru": "audio/Taliyah/taliyah_ru_RU_base_First_Encounter_Malphite_01.m4a",
+                "text_ru": "Готов выпасть в осадок, Мальфит?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Taliyah/taliyah_ru_RU_base_First_Encounter_Yasuo_03.m4a",
+                "audio_ru": "audio/Taliyah/taliyah_ru_RU_base_First_Encounter_Yasuo_03.m4a",
+                "text_ru": "Мастер Ясуо, помнишь меня?",
+                "text_en": ""
+            }
+        ]
+    },
+    "Talon": {
+        "quotes": [
+            {
+                "audio_en": "audio/Talon/talon_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Talon/talon_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Проклятье, я потерял очередной клинок. Интересно, в ком он застрял на этот раз?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Talon/talon_ru_RU_base_Joke_General_02.m4a",
+                "audio_ru": "audio/Talon/talon_ru_RU_base_Joke_General_02.m4a",
+                "text_ru": "Проклятье, я не помню, кого я последним убил.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Taric": {
+        "quotes": [
+            {
+                "audio_en": "audio/Taric/taric_ru_RU_base_First_Encounter_Aurelion_Sol.m4a",
+                "audio_ru": "audio/Taric/taric_ru_RU_base_First_Encounter_Aurelion_Sol.m4a",
+                "text_ru": "Нельзя пленить звезду.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Taric/taric_ru_RU_base_Joke_General_02.m4a",
+                "audio_ru": "audio/Taric/taric_ru_RU_base_Joke_General_02.m4a",
+                "text_ru": "Я не просто красив. У меня ещё и душа добрая.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Teemo": {
+        "quotes": [
+            {
+                "audio_en": "audio/Teemo/teemo_ru_RU_base_First_Encounter_Fizz.m4a",
+                "audio_ru": "audio/Teemo/teemo_ru_RU_base_First_Encounter_Fizz.m4a",
+                "text_ru": "В поле зрения: водный йордл. Бросается рыбой?! Подробности позже.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Teemo/teemo_ru_RU_base_First_Encounter_Veigar.m4a",
+                "audio_ru": "audio/Teemo/teemo_ru_RU_base_First_Encounter_Veigar.m4a",
+                "text_ru": "Вейгар, перестань быть злым! Это плохо!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Teemo/teemo_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Teemo/teemo_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Правило №419: Заботься о своем снаряжении, и оно позаботится о тебе.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Thresh": {
+        "quotes": [
+            {
+                "audio_en": "audio/Thresh/thresh_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Thresh/thresh_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Есть жизнь. Есть смерть. А есть я.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Thresh/thresh_ru_RU_base_Taunt_General_02.m4a",
+                "audio_ru": "audio/Thresh/thresh_ru_RU_base_Taunt_General_02.m4a",
+                "text_ru": "Видел свою душу? Показать?",
+                "text_en": ""
+            }
+        ]
+    },
+    "Tristana": {
+        "quotes": [
+            {
+                "audio_en": "audio/Tristana/tristana_ru_RU_base_First_Encounter_Jinx.m4a",
+                "audio_ru": "audio/Tristana/tristana_ru_RU_base_First_Encounter_Jinx.m4a",
+                "text_ru": "Достаточно одной пушки, если она правильная.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Tristana/tristana_ru_RU_base_First_Encounter_Teemo.m4a",
+                "audio_ru": "audio/Tristana/tristana_ru_RU_base_First_Encounter_Teemo.m4a",
+                "text_ru": "А… Тимо, эти грибы… Ты ими воюешь или питаешься?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Tristana/tristana_ru_RU_base_First_Encounter_Veigar_02.m4a",
+                "audio_ru": "audio/Tristana/tristana_ru_RU_base_First_Encounter_Veigar_02.m4a",
+                "text_ru": "О, Вейгар. Ты такой милый, когда злишься.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Trundle": {
+        "quotes": [
+            {
+                "audio_en": "audio/Trundle/trundle_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/Trundle/trundle_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Тролль с самой большой дубинкой становится королём. Таково правило.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Trundle/trundle_ru_RU_base_Move_Standard_03.m4a",
+                "audio_ru": "audio/Trundle/trundle_ru_RU_base_Move_Standard_03.m4a",
+                "text_ru": "Король троллей, встречайте!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Tryndamere": {
+        "quotes": [
+            {
+                "audio_en": "audio/Tryndamere/tryndamere_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Tryndamere/tryndamere_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Моя правая рука гораздо сильнее левой!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Tryndamere/tryndamere_ru_RU_base_Move_Standard_03.m4a",
+                "audio_ru": "audio/Tryndamere/tryndamere_ru_RU_base_Move_Standard_03.m4a",
+                "text_ru": "Будет резня.",
+                "text_en": ""
+            }
+        ]
+    },
+    "TwistedFate": {
+        "quotes": [
+            {
+                "audio_en": "audio/TwistedFate/twistedfate_ru_RU_base_Joke_General_01.m4a",
+                "audio_ru": "audio/TwistedFate/twistedfate_ru_RU_base_Joke_General_01.m4a",
+                "text_ru": "Шулер и победитель – синонимы.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/TwistedFate/twistedfate_ru_RU_base_Taunt_General_01.m4a",
+                "audio_ru": "audio/TwistedFate/twistedfate_ru_RU_base_Taunt_General_01.m4a",
+                "text_ru": "Честно играют только дураки.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/TwistedFate/twistedfate_ru_RU_base_Taunt_General_02.m4a",
+                "audio_ru": "audio/TwistedFate/twistedfate_ru_RU_base_Taunt_General_02.m4a",
+                "text_ru": "Нет ничего приятнее, чем мухлевать.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Twitch": {
+        "quotes": [
+            {
+                "audio_en": "audio/Twitch/twitch_ru_RU_base_First_Encounter_Janna.m4a",
+                "audio_ru": "audio/Twitch/twitch_ru_RU_base_First_Encounter_Janna.m4a",
+                "text_ru": "Хватит уносить мой запах!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Twitch/twitch_ru_RU_base_First_Encounter_Zac_02.m4a",
+                "audio_ru": "audio/Twitch/twitch_ru_RU_base_First_Encounter_Zac_02.m4a",
+                "text_ru": "Ты напоминаешь мне о доме.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Udyr": {
+        "quotes": [
+            {
+                "audio_en": "audio/Udyr/udyr_ru_RU_base_First_Encounter_Ashe.m4a",
+                "audio_ru": "audio/Udyr/udyr_ru_RU_base_First_Encounter_Ashe.m4a",
+                "text_ru": "В твоих руках Фрельйорд погибнет, Эш! Погибнет безвозвратно!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Udyr/udyr_ru_RU_base_First_Encounter_Lissandra.m4a",
+                "audio_ru": "audio/Udyr/udyr_ru_RU_base_First_Encounter_Lissandra.m4a",
+                "text_ru": "Ледяная ведьма! Ты язва на теле Фрельйорда, и я тебя вырежу!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Udyr/udyr_ru_RU_base_Move_First_01.m4a",
+                "audio_ru": "audio/Udyr/udyr_ru_RU_base_Move_First_01.m4a",
+                "text_ru": "Меня призывают духи в самом сердце Фрельйорда! Я приду на их зов!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Urgot": {
+        "quotes": [
+            {
+                "audio_en": "audio/Urgot/urgot_ru_RU_base_First_Encounter_Camille_02.m4a",
+                "audio_ru": "audio/Urgot/urgot_ru_RU_base_First_Encounter_Camille_02.m4a",
+                "text_ru": "Должен признаться, ноги – моя слабость.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Urgot/urgot_ru_RU_base_First_Encounter_Rengar.m4a",
+                "audio_ru": "audio/Urgot/urgot_ru_RU_base_First_Encounter_Rengar.m4a",
+                "text_ru": "Уважаешь силу? Молодец. Значит, оценишь.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Urgot/urgot_ru_RU_base_First_Encounter_Teemo.m4a",
+                "audio_ru": "audio/Urgot/urgot_ru_RU_base_First_Encounter_Teemo.m4a",
+                "text_ru": "По сравнению с тобой, я воплощение милосердия.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Varus": {
+        "quotes": [
+            {
+                "audio_en": "audio/Varus/varus_ru_RU_base_First_Encounter_Aatrox_01.m4a",
+                "audio_ru": "audio/Varus/varus_ru_RU_base_First_Encounter_Aatrox_01.m4a",
+                "text_ru": "Атрокс, мы оба знаем, что двойная 'А' не нужна.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Varus/varus_ru_RU_base_First_Encounter_Kayn_02.m4a",
+                "audio_ru": "audio/Varus/varus_ru_RU_base_First_Encounter_Kayn_02.m4a",
+                "text_ru": "Рааст. Надо предупредить остальных, чтобы не вселялись в ионийцев.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Varus/varus_ru_RU_base_First_Encounter_Sivir.m4a",
+                "audio_ru": "audio/Varus/varus_ru_RU_base_First_Encounter_Sivir.m4a",
+                "text_ru": "Когда-то твой клинок губил моих собратьев, Сивир. Больше это не повторится.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Vayne": {
+        "quotes": [
+            {
+                "audio_en": "audio/Vayne/vayne_ru_RU_base_Move_Standard_01.m4a",
+                "audio_ru": "audio/Vayne/vayne_ru_RU_base_Move_Standard_01.m4a",
+                "text_ru": "Я чую запах чёрной магии.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Vayne/vayne_ru_RU_base_Taunt_General.m4a",
+                "audio_ru": "audio/Vayne/vayne_ru_RU_base_Taunt_General.m4a",
+                "text_ru": "Бой со мной – это как бой с тенью.м",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Vayne/vayne_ru_RU_skin25_First_Encounter_Draven_Skin20.m4a",
+                "audio_ru": "audio/Vayne/vayne_ru_RU_skin25_First_Encounter_Draven_Skin20.m4a",
+                "text_ru": "Дрейвен, только глупец отдаст душу в обмен на силу. А ты и глупец, и слабак.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Veigar": {
+        "quotes": [
+            {
+                "audio_en": "audio/Veigar/veigar_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Veigar/veigar_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Я злой, и память плохая! Отомщу, забуду, и снова отомщу!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Veigar/veigar_ru_RU_base_Move_Standard_02.m4a",
+                "audio_ru": "audio/Veigar/veigar_ru_RU_base_Move_Standard_02.m4a",
+                "text_ru": "Ты только попробуй пошутить про бег на короткие дистанции!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Velkoz": {
+        "quotes": [
+            {
+                "audio_en": "audio/Velkoz/velkoz_ru_RU_base_Joke_General_02.m4a",
+                "audio_ru": "audio/Velkoz/velkoz_ru_RU_base_Joke_General_02.m4a",
+                "text_ru": "Развлекательная процедура местных форм жизни.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Velkoz/velkoz_ru_RU_base_Move_Standard_13.m4a",
+                "audio_ru": "audio/Velkoz/velkoz_ru_RU_base_Move_Standard_13.m4a",
+                "text_ru": "Странные существа из плоти и крови.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Vex": {
+        "quotes": [
+            {
+                "audio_en": "audio/Vex/vex_ru_RU_base_First_Encounter_Amumu.m4a",
+                "audio_ru": "audio/Vex/vex_ru_RU_base_First_Encounter_Amumu.m4a",
+                "text_ru": "Ты грустный и мёртвый? Мы поладим.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Vex/vex_ru_RU_base_First_Encounter_Lux.m4a",
+                "audio_ru": "audio/Vex/vex_ru_RU_base_First_Encounter_Lux.m4a",
+                "text_ru": "О нет. Счастье… и радуга? Меня стошнит дважды.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Vex/vex_ru_RU_base_First_Encounter_Yasuo.m4a",
+                "audio_ru": "audio/Vex/vex_ru_RU_base_First_Encounter_Yasuo.m4a",
+                "text_ru": "Аргх… Ясуо, сразу говорю. Мы не поладим.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Vi": {
+        "quotes": [
+            {
+                "audio_en": "audio/Vi/vi_ru_RU_base_First_Encounter_Caitlyn_01.m4a",
+                "audio_ru": "audio/Vi/vi_ru_RU_base_First_Encounter_Caitlyn_01.m4a",
+                "text_ru": "Ооо, посмотрите на меня, я на задании.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Vi/vi_ru_RU_skin48_First_Encounter_Caitlyn.m4a",
+                "audio_ru": "audio/Vi/vi_ru_RU_skin48_First_Encounter_Caitlyn.m4a",
+                "text_ru": "Ты обещала не меняться, Кейт! К черту, начали...",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Vi/vi_ru_RU_skin48_First_Encounter_Warwick.m4a",
+                "audio_ru": "audio/Vi/vi_ru_RU_skin48_First_Encounter_Warwick.m4a",
+                "text_ru": "Вандер? Что с тобой сделали?",
+                "text_en": ""
+            }
+        ]
+    },
+    "Viego": {
+        "quotes": [
+            {
+                "audio_en": "audio/Viego/viego_ru_RU_base_First_Encounter_Hecarim.m4a",
+                "audio_ru": "audio/Viego/viego_ru_RU_base_First_Encounter_Hecarim.m4a",
+                "text_ru": "Во что ты превратился, Гекарим? Куда привели тебя амбиции?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Viego/viego_ru_RU_base_First_Encounter_Kindred.m4a",
+                "audio_ru": "audio/Viego/viego_ru_RU_base_First_Encounter_Kindred.m4a",
+                "text_ru": "Ты ответишь мне за свои преступления, смерть!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Viego/viego_ru_RU_base_First_Encounter_Senna.m4a",
+                "audio_ru": "audio/Viego/viego_ru_RU_base_First_Encounter_Senna.m4a",
+                "text_ru": "Почему, Изольда? Почему ты прячешься от меня?",
+                "text_en": ""
+            }
+        ]
+    },
+    "Viktor": {
+        "quotes": [
+            {
+                "audio_en": "audio/Viktor/viktor_ru_RU_skin24_First_Encounter_Mel_09.m4a",
+                "audio_ru": "audio/Viktor/viktor_ru_RU_skin24_First_Encounter_Mel_09.m4a",
+                "text_ru": "Кажется, в тебе Аркейн проявился совсем по иному, Мэл.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Viktor/viktor_ru_RU_skin24_First_Encounter_Warwick_Skin56_01.m4a",
+                "audio_ru": "audio/Viktor/viktor_ru_RU_skin24_First_Encounter_Warwick_Skin56_01.m4a",
+                "text_ru": "Может, до Вандера и не достучаться, но я все равно могу тебе помочь.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Viktor/viktor_ru_RU_skin24_Move_First_Ally_Jayce_09.m4a",
+                "audio_ru": "audio/Viktor/viktor_ru_RU_skin24_Move_First_Ally_Jayce_09.m4a",
+                "text_ru": "Присоединись, Джейс. Спасем человечество вместе.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Vladimir": {
+        "quotes": [
+            {
+                "audio_en": "audio/Vladimir/vladimir_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Vladimir/vladimir_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Положительная, отрицательная. Смешать и не взбалтывать.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Vladimir/vladimir_ru_RU_base_Move_Standard_01.m4a",
+                "audio_ru": "audio/Vladimir/vladimir_ru_RU_base_Move_Standard_01.m4a",
+                "text_ru": "Капля за каплей!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Vladimir/vladimir_ru_RU_base_Move_Standard_09.m4a",
+                "audio_ru": "audio/Vladimir/vladimir_ru_RU_base_Move_Standard_09.m4a",
+                "text_ru": "Время кровавой жатвы.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Volibear": {
+        "quotes": [
+            {
+                "audio_en": "audio/Volibear/volibear_ru_RU_base_First_Encounter_Braum_01.m4a",
+                "audio_ru": "audio/Volibear/volibear_ru_RU_base_First_Encounter_Braum_01.m4a",
+                "text_ru": "Сердце – самое сильное, что есть в человеке, Браум. И самое вкусное.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Volibear/volibear_ru_RU_base_First_Encounter_Ornn_01.m4a",
+                "audio_ru": "audio/Volibear/volibear_ru_RU_base_First_Encounter_Ornn_01.m4a",
+                "text_ru": "Ты стал мягкотелым, брат. Слишком много пирогов.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Warwick": {
+        "quotes": [
+            {
+                "audio_en": "audio/Warwick/warwick_ru_RU_base_First_Encounter_Jinx_01.m4a",
+                "audio_ru": "audio/Warwick/warwick_ru_RU_base_First_Encounter_Jinx_01.m4a",
+                "text_ru": "Ты была там.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Warwick/warwick_ru_RU_base_First_Encounter_Singed_04.m4a",
+                "audio_ru": "audio/Warwick/warwick_ru_RU_base_First_Encounter_Singed_04.m4a",
+                "text_ru": "Это ты во всём виноват!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Warwick/warwick_ru_RU_base_First_Encounter_Vi_01.m4a",
+                "audio_ru": "audio/Warwick/warwick_ru_RU_base_First_Encounter_Vi_01.m4a",
+                "text_ru": "Мне знаком… страх в твоих глазах.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Xayah": {
+        "quotes": [
+            {
+                "audio_en": "audio/Xayah/xayah_ru_RU_base_First_Encounter_Rengar.m4a",
+                "audio_ru": "audio/Xayah/xayah_ru_RU_base_First_Encounter_Rengar.m4a",
+                "text_ru": "Я не хочу проливать вастайскую кровь, Ренгар.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Xayah/xayah_ru_RU_base_Move_First_08.m4a",
+                "audio_ru": "audio/Xayah/xayah_ru_RU_base_Move_First_08.m4a",
+                "text_ru": "Мы поклялись в верности посреди драки в таверне. Там воняло блевотиной, потом и кровью. Это было так романтично.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Xayah/xayah_ru_RU_base_Move_Standard_30.m4a",
+                "audio_ru": "audio/Xayah/xayah_ru_RU_base_Move_Standard_30.m4a",
+                "text_ru": "Мне нравится работать ночью. А днём солнце, яркое…",
+                "text_en": ""
+            }
+        ]
+    },
+    "Xerath": {
+        "quotes": [
+            {
+                "audio_en": "audio/Xerath/xerath_ru_RU_base_First_Encounter_Nasus_01.m4a",
+                "audio_ru": "audio/Xerath/xerath_ru_RU_base_First_Encounter_Nasus_01.m4a",
+                "text_ru": "Насус, верный щенок. Всё пытаешься ухватить меня за пятку.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Xerath/xerath_ru_RU_base_First_Encounter_Shurima_01.m4a",
+                "audio_ru": "audio/Xerath/xerath_ru_RU_base_First_Encounter_Shurima_01.m4a",
+                "text_ru": "Лишь я могу вознестись по-настоящему!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Xerath/xerath_ru_RU_base_First_Encounter_Syndra.m4a",
+                "audio_ru": "audio/Xerath/xerath_ru_RU_base_First_Encounter_Syndra.m4a",
+                "text_ru": "Ты гонишься за мощью, Синдра, а я и есть мощь.",
+                "text_en": ""
+            }
+        ]
+    },
+    "XinZhao": {
+        "quotes": [
+            {
+                "audio_en": "audio/XinZhao/xinzhao_ru_RU_base_First_Encounter_Noxus_01.m4a",
+                "audio_ru": "audio/XinZhao/xinzhao_ru_RU_base_First_Encounter_Noxus_01.m4a",
+                "text_ru": "Прежде я проливал кровь за Ноксус, теперь прольется твоя!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/XinZhao/xinzhao_ru_RU_base_First_Encounter_Yunara.m4a",
+                "audio_ru": "audio/XinZhao/xinzhao_ru_RU_base_First_Encounter_Yunara.m4a",
+                "text_ru": "Твой храм разрушен, Юнара... Не раздели его участь.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Yasuo": {
+        "quotes": [
+            {
+                "audio_en": "audio/Yasuo/yasuo_ru_RU_base_First_Encounter_Master_Yi_02.m4a",
+                "audio_ru": "audio/Yasuo/yasuo_ru_RU_base_First_Encounter_Master_Yi_02.m4a",
+                "text_ru": "Вуджу? Ха, никогда о таком не слышал.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Yasuo/yasuo_ru_RU_base_First_Encounter_Riven_03.m4a",
+                "audio_ru": "audio/Yasuo/yasuo_ru_RU_base_First_Encounter_Riven_03.m4a",
+                "text_ru": "Ты не сможешь убежать от себя, Ривен. Я знаю, я пытался.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Yasuo/yasuo_ru_RU_base_First_Encounter_Yone_03.m4a",
+                "audio_ru": "audio/Yasuo/yasuo_ru_RU_base_First_Encounter_Yone_03.m4a",
+                "text_ru": "Ёнэ… Я усвоил твой урок слишком поздно!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Yone": {
+        "quotes": [
+            {
+                "audio_en": "audio/Yone/yone_ru_RU_base_First_Encounter_Kindred.m4a",
+                "audio_ru": "audio/Yone/yone_ru_RU_base_First_Encounter_Kindred.m4a",
+                "text_ru": "Овечка… Волк… Я выпал из цикла жизни и смерти. Вы здесь, чтобы вернуть меня?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Yone/yone_ru_RU_base_First_Encounter_Riven.m4a",
+                "audio_ru": "audio/Yone/yone_ru_RU_base_First_Encounter_Riven.m4a",
+                "text_ru": "Тебя гложет чувство вины, Ривен. Прости себя, или азаканы придут за тобой.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Yone/yone_ru_RU_base_First_Encounter_Yasuo_01.m4a",
+                "audio_ru": "audio/Yone/yone_ru_RU_base_First_Encounter_Yasuo_01.m4a",
+                "text_ru": "Мне кажется или ветер пахнет горечью? Ааа… Здравствуй, брат.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Yorick": {
+        "quotes": [
+            {
+                "audio_en": "audio/Yorick/yorick_ru_RU_base_First_Encounter_Annie.m4a",
+                "audio_ru": "audio/Yorick/yorick_ru_RU_base_First_Encounter_Annie.m4a",
+                "text_ru": "Говорят, когда-то и я был молод. Но я не помню наверняка.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Yorick/yorick_ru_RU_base_First_Encounter_Azir.m4a",
+                "audio_ru": "audio/Yorick/yorick_ru_RU_base_First_Encounter_Azir.m4a",
+                "text_ru": "Твои мертвецы против моих. И пусть победят сильнейшие.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Yorick/yorick_ru_RU_base_First_Encounter_Singed.m4a",
+                "audio_ru": "audio/Yorick/yorick_ru_RU_base_First_Encounter_Singed.m4a",
+                "text_ru": "Жаждешь бессмертия? Я с радостью отдам тебе своё.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Yunara": {
+        "quotes": [
+            {
+                "audio_en": "audio/Yunara/yunara_ru_RU_base_First_Encounter_Karma.m4a",
+                "audio_ru": "audio/Yunara/yunara_ru_RU_base_First_Encounter_Karma.m4a",
+                "text_ru": "Карма, я знала тебя в прошлой жизни. Надеюсь в этой мы поймем друг друга.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Yunara/yunara_ru_RU_base_First_Encounter_Kayn.m4a",
+                "audio_ru": "audio/Yunara/yunara_ru_RU_base_First_Encounter_Kayn.m4a",
+                "text_ru": "Был божеством, стал паразитом. Твои страдания сладки, Коса.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Yunara/yunara_ru_RU_base_First_Encounter_Kennen.m4a",
+                "audio_ru": "audio/Yunara/yunara_ru_RU_base_First_Encounter_Kennen.m4a",
+                "text_ru": "Учитель Кеннен, разве так должно встречать старую подругу?",
+                "text_en": ""
+            }
+        ]
+    },
+    "Yuumi": {
+        "quotes": [
+            {
+                "audio_en": "audio/Yuumi/yuumi_ru_RU_base_First_Encounter_Azir.m4a",
+                "audio_ru": "audio/Yuumi/yuumi_ru_RU_base_First_Encounter_Azir.m4a",
+                "text_ru": "Эй, птицеголовый! Это ты император большого кошачьего лотка?",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Yuumi/yuumi_ru_RU_base_First_Encounter_Nasus.m4a",
+                "audio_ru": "audio/Yuumi/yuumi_ru_RU_base_First_Encounter_Nasus.m4a",
+                "text_ru": "Книга, ты что-то напутала. Насус не бог, а рассадник блох!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Yuumi/yuumi_ru_RU_base_First_Encounter_Rengar.m4a",
+                "audio_ru": "audio/Yuumi/yuumi_ru_RU_base_First_Encounter_Rengar.m4a",
+                "text_ru": "Слушай, Ренгар, как ты вылизываешь столько меха?",
+                "text_en": ""
+            }
+        ]
+    },
+    "Zaahen": {
+        "quotes": [
+            {
+                "audio_en": "audio/Zaahen/zaahen_ru_RU_base_First_Encounter_Aatrox.m4a",
+                "audio_ru": "audio/Zaahen/zaahen_ru_RU_base_First_Encounter_Aatrox.m4a",
+                "text_ru": "Ты покорился забвению, Атрокс... и отринул свою цель.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Zaahen/zaahen_ru_RU_base_First_Encounter_Kayn.m4a",
+                "audio_ru": "audio/Zaahen/zaahen_ru_RU_base_First_Encounter_Kayn.m4a",
+                "text_ru": "Смертный и монстр. Вы оба достойны смерти.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Zaahen/zaahen_ru_RU_base_First_Encounter_Naafiri.m4a",
+                "audio_ru": "audio/Zaahen/zaahen_ru_RU_base_First_Encounter_Naafiri.m4a",
+                "text_ru": "Хочешь уподобиться зверю, Наафири? Как зверь и умрешь",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Zaahen/zaahen_ru_RU_base_First_Encounter_Xin_Zhao.m4a",
+                "audio_ru": "audio/Zaahen/zaahen_ru_RU_base_First_Encounter_Xin_Zhao.m4a",
+                "text_ru": "Ксин Жао, я принял твою жертву. А ты?",
+                "text_en": ""
+            }
+        ]
+    },
+    "Zac": {
+        "quotes": [
+            {
+                "audio_en": "audio/Zac/zac_ru_RU_base_Move_Standard_02.m4a",
+                "audio_ru": "audio/Zac/zac_ru_RU_base_Move_Standard_02.m4a",
+                "text_ru": "Меня много, и я повсюду.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Zac/zac_ru_RU_base_Move_Standard_06.m4a",
+                "audio_ru": "audio/Zac/zac_ru_RU_base_Move_Standard_06.m4a",
+                "text_ru": "Походка пружинстая, от бедра!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Zed": {
+        "quotes": [
+            {
+                "audio_en": "audio/Zed/zed_ru_RU_base_First_Encounter_Shen.m4a",
+                "audio_ru": "audio/Zed/zed_ru_RU_base_First_Encounter_Shen.m4a",
+                "text_ru": "Выйди против меня, Шен… и недолго останешься сиротой!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Zed/zed_ru_RU_base_Move_Standard_06.m4a",
+                "audio_ru": "audio/Zed/zed_ru_RU_base_Move_Standard_06.m4a",
+                "text_ru": "Не бойся троп, укрытых тенью.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Zeri": {
+        "quotes": [
+            {
+                "audio_en": "audio/Zeri/zeri_ru_RU_base_First_Encounter_Blitzcrank.m4a",
+                "audio_ru": "audio/Zeri/zeri_ru_RU_base_First_Encounter_Blitzcrank.m4a",
+                "text_ru": "Блиц, помнишь, как ты помог мне влезть на часовую башню? Рука у тебя отпад!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Zeri/zeri_ru_RU_base_First_Encounter_Janna.m4a",
+                "audio_ru": "audio/Zeri/zeri_ru_RU_base_First_Encounter_Janna.m4a",
+                "text_ru": "Жанна? Ты правда существуешь! Твой ветер… моя молния… Устроим бурю!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Zeri/zeri_ru_RU_base_First_Encounter_Twitch.m4a",
+                "audio_ru": "audio/Zeri/zeri_ru_RU_base_First_Encounter_Twitch.m4a",
+                "text_ru": "И правда крыса с арбалетом! Ну вот, я проспорила папе.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Ziggs": {
+        "quotes": [
+            {
+                "audio_en": "audio/Ziggs/ziggs_ru_RU_base_Taunt_General_01.m4a",
+                "audio_ru": "audio/Ziggs/ziggs_ru_RU_base_Taunt_General_01.m4a",
+                "text_ru": "Одну бомбу беру, на другую смотрю – и всё в тебя!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Ziggs/ziggs_ru_RU_base_Taunt_General_02.m4a",
+                "audio_ru": "audio/Ziggs/ziggs_ru_RU_base_Taunt_General_02.m4a",
+                "text_ru": "Люблю врагов так же, как и бомбы – когда взрываются!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Zilean": {
+        "quotes": [
+            {
+                "audio_en": "audio/Zilean/zilean_ru_RU_base_Joke_General.m4a",
+                "audio_ru": "audio/Zilean/zilean_ru_RU_base_Joke_General.m4a",
+                "text_ru": "Убить время? Да его даже провести непросто!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Zilean/zilean_ru_RU_base_Move_Standard_05.m4a",
+                "audio_ru": "audio/Zilean/zilean_ru_RU_base_Move_Standard_05.m4a",
+                "text_ru": "Мы теряем время.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Zilean/zilean_ru_RU_base_Taunt_General.m4a",
+                "audio_ru": "audio/Zilean/zilean_ru_RU_base_Taunt_General.m4a",
+                "text_ru": "Я видел твою смерть. Она была очень болезненной.",
+                "text_en": ""
+            }
+        ]
+    },
+    "Zoe": {
+        "quotes": [
+            {
+                "audio_en": "audio/Zoe/zoe_ru_RU_base_First_Encounter_Ezreal_02.m4a",
+                "audio_ru": "audio/Zoe/zoe_ru_RU_base_First_Encounter_Ezreal_02.m4a",
+                "text_ru": "Смотри на меня, а то конец твоему миру! Ладно, это я так. Хотя, всё может быть.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Zoe/zoe_ru_RU_base_First_Encounter_Lux_02.m4a",
+                "audio_ru": "audio/Zoe/zoe_ru_RU_base_First_Encounter_Lux_02.m4a",
+                "text_ru": "Двойная радуга. Хипстерша!",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Zoe/zoe_ru_RU_base_Kill_Lux_03.m4a",
+                "audio_ru": "audio/Zoe/zoe_ru_RU_base_Kill_Lux_03.m4a",
+                "text_ru": "<i>Хааа… Привет, я Люкс. Я такая высокая, что все парни бегают за мной.<i> ПОЛУЧИЛА?!",
+                "text_en": ""
+            }
+        ]
+    },
+    "Zyra": {
+        "quotes": [
+            {
+                "audio_en": "audio/Zyra/zyra_ru_RU_base_Joke_General_02.m4a",
+                "audio_ru": "audio/Zyra/zyra_ru_RU_base_Joke_General_02.m4a",
+                "text_ru": "У нас разные времена года. Я расцвету, ты завянешь.",
+                "text_en": ""
+            },
+            {
+                "audio_en": "audio/Zyra/zyra_ru_RU_base_Move_Standard_10.m4a",
+                "audio_ru": "audio/Zyra/zyra_ru_RU_base_Move_Standard_10.m4a",
+                "text_ru": "Лес таит немало сюрпризов.",
+                "text_en": ""
+            }
+        ]
+    }
+}

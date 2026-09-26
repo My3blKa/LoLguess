@@ -1,0 +1,3464 @@
+[
+    {
+        "championId": "Aatrox",
+        "championName": "Атрокс",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Даркин"
+        ],
+        "resource": "Без маны",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Рунтерра",
+            "Шурима"
+        ],
+        "release_date": "2013-06-13"
+    },
+    {
+        "championId": "Ahri",
+        "championName": "Ари",
+        "gender": "Женский",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Вастайи"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2011-12-14"
+    },
+    {
+        "championId": "Akali",
+        "championName": "Акали",
+        "gender": "Женский",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Энергия",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2010-05-11"
+    },
+    {
+        "championId": "Akshan",
+        "championName": "Акшан",
+        "gender": "Мужской",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Шурима"
+        ],
+        "release_date": "2021-07-22"
+    },
+    {
+        "championId": "Alistar",
+        "championName": "Алистар",
+        "gender": "Мужской",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Минотавр"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Рунтерра",
+            "Ноксус"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Ambessa",
+        "championName": "Амбесса",
+        "gender": "Женский",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Энергия",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Пилтовер",
+            "Ноксус"
+        ],
+        "release_date": "2024-11-06"
+    },
+    {
+        "championId": "Amumu",
+        "championName": "Амуму",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Нежить",
+            "Йордл"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Шурима"
+        ],
+        "release_date": "2009-06-26"
+    },
+    {
+        "championId": "Anivia",
+        "championName": "Анивия",
+        "gender": "Женский",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Дух",
+            "Бог"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Фрельорд"
+        ],
+        "release_date": "2009-07-10"
+    },
+    {
+        "championId": "Annie",
+        "championName": "Энни",
+        "gender": "Женский",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Ноксус",
+            "Рунтерра"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Aphelios",
+        "championName": "Афелий",
+        "gender": "Мужской",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек",
+            "Спиритуалист"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Таргон"
+        ],
+        "release_date": "2019-12-11"
+    },
+    {
+        "championId": "Ashe",
+        "championName": "Эш",
+        "gender": "Женский",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый льдом"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Фрельорд"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "AurelionSol",
+        "championName": "Аурелион Сол",
+        "gender": "Мужской",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Небожитель",
+            "Дракон"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Рунтерра",
+            "Таргон"
+        ],
+        "release_date": "2016-03-24"
+    },
+    {
+        "championId": "Aurora",
+        "championName": "Аврора",
+        "gender": "Женский",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Вастайи"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Фрельорд"
+        ],
+        "release_date": "2024-07-17"
+    },
+    {
+        "championId": "Azir",
+        "championName": "Азир",
+        "gender": "Мужской",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Воин бога"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Шурима"
+        ],
+        "release_date": "2014-09-16"
+    },
+    {
+        "championId": "Bard",
+        "championName": "Бард",
+        "gender": "Мужской",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Небожитель"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Рунтерра"
+        ],
+        "release_date": "2015-03-12"
+    },
+    {
+        "championId": "Belveth",
+        "championName": "Бел'Вет",
+        "gender": "Женский",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Создание Бездны"
+        ],
+        "resource": "Без маны",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Бездна"
+        ],
+        "release_date": "2022-06-09"
+    },
+    {
+        "championId": "Blitzcrank",
+        "championName": "Блицкранк",
+        "gender": "Другой",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Голем"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Заун"
+        ],
+        "release_date": "2009-09-02"
+    },
+    {
+        "championId": "Brand",
+        "championName": "Брэнд",
+        "gender": "Мужской",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Фрельорд",
+            "Рунтерра"
+        ],
+        "release_date": "2011-04-12"
+    },
+    {
+        "championId": "Braum",
+        "championName": "Браум",
+        "gender": "Мужской",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый льдом"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Фрельорд"
+        ],
+        "release_date": "2014-05-12"
+    },
+    {
+        "championId": "Briar",
+        "championName": "Брайер",
+        "gender": "Женский",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Голем"
+        ],
+        "resource": "Здоровье",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Ноксус"
+        ],
+        "release_date": "2023-09-14"
+    },
+    {
+        "championId": "Caitlyn",
+        "championName": "Кейтлин",
+        "gender": "Женский",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Пилтовер"
+        ],
+        "release_date": "2011-01-04"
+    },
+    {
+        "championId": "Camille",
+        "championName": "Камилла",
+        "gender": "Женский",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек",
+            "Киборг"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Пилтовер"
+        ],
+        "release_date": "2016-12-07"
+    },
+    {
+        "championId": "Cassiopeia",
+        "championName": "Кассиопея",
+        "gender": "Женский",
+        "positions": [
+            "Топ",
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Ноксус",
+            "Шурима"
+        ],
+        "release_date": "2010-12-14"
+    },
+    {
+        "championId": "Chogath",
+        "championName": "Чо'Гат",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Создание Бездны"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Бездна"
+        ],
+        "release_date": "2009-06-26"
+    },
+    {
+        "championId": "Corki",
+        "championName": "Корки",
+        "gender": "Мужской",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Йордл"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Бандл-Сити",
+            "Пилтовер"
+        ],
+        "release_date": "2009-09-19"
+    },
+    {
+        "championId": "Darius",
+        "championName": "Дариус",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Ноксус"
+        ],
+        "release_date": "2012-05-23"
+    },
+    {
+        "championId": "Diana",
+        "championName": "Диана",
+        "gender": "Женский",
+        "positions": [
+            "Лес",
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Аспект"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Таргон"
+        ],
+        "release_date": "2012-08-07"
+    },
+    {
+        "championId": "DrMundo",
+        "championName": "Доктор Мундо",
+        "gender": "Мужской",
+        "positions": [
+            "Топ",
+            "Лес"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый химией"
+        ],
+        "resource": "Здоровье",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Заун"
+        ],
+        "release_date": "2009-09-02"
+    },
+    {
+        "championId": "Draven",
+        "championName": "Дрейвен",
+        "gender": "Мужской",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Ноксус"
+        ],
+        "release_date": "2012-06-06"
+    },
+    {
+        "championId": "Ekko",
+        "championName": "Экко",
+        "gender": "Мужской",
+        "positions": [
+            "Лес",
+            "Мид"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Заун"
+        ],
+        "release_date": "2015-05-29"
+    },
+    {
+        "championId": "Elise",
+        "championName": "Элиза",
+        "gender": "Женский",
+        "positions": [
+            "Лес",
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний",
+            "Дальний"
+        ],
+        "regions": [
+            "Острова Теней",
+            "Ноксус"
+        ],
+        "release_date": "2012-10-26"
+    },
+    {
+        "championId": "Evelynn",
+        "championName": "Эвелинн",
+        "gender": "Женский",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Демон",
+            "Дух"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Рунтерра"
+        ],
+        "release_date": "2009-05-01"
+    },
+    {
+        "championId": "Ezreal",
+        "championName": "Эзреаль",
+        "gender": "Мужской",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Пилтовер"
+        ],
+        "release_date": "2010-03-16"
+    },
+    {
+        "championId": "Fiddlesticks",
+        "championName": "Фиддлстикс",
+        "gender": "Другой",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Демон",
+            "Дух"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Рунтерра"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Fiora",
+        "championName": "Фиора",
+        "gender": "Женский",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Демасия"
+        ],
+        "release_date": "2012-02-29"
+    },
+    {
+        "championId": "Fizz",
+        "championName": "Физз",
+        "gender": "Мужской",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Йордл"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Билджвотер"
+        ],
+        "release_date": "2011-11-15"
+    },
+    {
+        "championId": "Galio",
+        "championName": "Галио",
+        "gender": "Мужской",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Голем"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Демасия"
+        ],
+        "release_date": "2010-08-10"
+    },
+    {
+        "championId": "Gangplank",
+        "championName": "Гангпланк",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Билджвотер"
+        ],
+        "release_date": "2009-08-19"
+    },
+    {
+        "championId": "Garen",
+        "championName": "Гарен",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Без маны",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Демасия"
+        ],
+        "release_date": "2010-04-27"
+    },
+    {
+        "championId": "Gnar",
+        "championName": "Гнар",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Йордл"
+        ],
+        "resource": "Ярость",
+        "range_type": [
+            "Ближний",
+            "Дальний"
+        ],
+        "regions": [
+            "Фрельорд"
+        ],
+        "release_date": "2014-08-14"
+    },
+    {
+        "championId": "Gragas",
+        "championName": "Грагас",
+        "gender": "Мужской",
+        "positions": [
+            "Топ",
+            "Лес"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый льдом"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Фрельорд"
+        ],
+        "release_date": "2010-02-02"
+    },
+    {
+        "championId": "Graves",
+        "championName": "Грейвз",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Билджвотер"
+        ],
+        "release_date": "2011-10-19"
+    },
+    {
+        "championId": "Gwen",
+        "championName": "Гвен",
+        "gender": "Женский",
+        "positions": [
+            "Топ",
+            "Лес"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Острова Теней",
+            "Камавор"
+        ],
+        "release_date": "2021-04-15"
+    },
+    {
+        "championId": "Hecarim",
+        "championName": "Гекарим",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Нежить"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Острова Теней",
+            "Камавор"
+        ],
+        "release_date": "2012-04-18"
+    },
+    {
+        "championId": "Hwei",
+        "championName": "Хвэй",
+        "gender": "Мужской",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2023-12-05"
+    },
+    {
+        "championId": "Heimerdinger",
+        "championName": "Хеймердингер",
+        "gender": "Мужской",
+        "positions": [
+            "Топ",
+            "Мид"
+        ],
+        "species": [
+            "Йордл"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Пилтовер"
+        ],
+        "release_date": "2009-10-10"
+    },
+    {
+        "championId": "Illaoi",
+        "championName": "Иллаой",
+        "gender": "Женский",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек",
+            "Спиритуалист"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Билджвотер"
+        ],
+        "release_date": "2015-11-24"
+    },
+    {
+        "championId": "Irelia",
+        "championName": "Ирелия",
+        "gender": "Женский",
+        "positions": [
+            "Топ",
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Спиритуалист"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2010-11-16"
+    },
+    {
+        "championId": "Ivern",
+        "championName": "Иверн",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Иония",
+            "Фрельорд"
+        ],
+        "release_date": "2016-10-05"
+    },
+    {
+        "championId": "Janna",
+        "championName": "Жанна",
+        "gender": "Женский",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Дух",
+            "Бог"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Заун",
+            "Шурима"
+        ],
+        "release_date": "2009-09-02"
+    },
+    {
+        "championId": "JarvanIV",
+        "championName": "Джарван IV",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Демасия"
+        ],
+        "release_date": "2011-03-01"
+    },
+    {
+        "championId": "Jax",
+        "championName": "Джакс",
+        "gender": "Мужской",
+        "positions": [
+            "Топ",
+            "Лес"
+        ],
+        "species": [
+            "Неизвестно"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Рунтерра",
+            "Икатия",
+            "Шурима"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Jayce",
+        "championName": "Джейс",
+        "gender": "Мужской",
+        "positions": [
+            "Топ",
+            "Лес"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний",
+            "Дальний"
+        ],
+        "regions": [
+            "Пилтовер"
+        ],
+        "release_date": "2012-07-07"
+    },
+    {
+        "championId": "Jhin",
+        "championName": "Джин",
+        "gender": "Мужской",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек",
+            "Спиритуалист"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2016-02-01"
+    },
+    {
+        "championId": "Jinx",
+        "championName": "Джинкс",
+        "gender": "Женский",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый химией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Заун"
+        ],
+        "release_date": "2013-10-10"
+    },
+    {
+        "championId": "KSante",
+        "championName": "К'Санте",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Шурима"
+        ],
+        "release_date": "2022-11-02"
+    },
+    {
+        "championId": "Kaisa",
+        "championName": "Кай'Са",
+        "gender": "Женский",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек",
+            "Создание Бездны"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Шурима",
+            "Бездна"
+        ],
+        "release_date": "2018-03-07"
+    },
+    {
+        "championId": "Kalista",
+        "championName": "Калиста",
+        "gender": "Женский",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Нежить"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Острова Теней",
+            "Камавор"
+        ],
+        "release_date": "2014-11-20"
+    },
+    {
+        "championId": "Karma",
+        "championName": "Карма",
+        "gender": "Женский",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Спиритуалист"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2011-02-01"
+    },
+    {
+        "championId": "Karthus",
+        "championName": "Картус",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Нежить"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Острова Теней",
+            "Ноксус"
+        ],
+        "release_date": "2009-06-12"
+    },
+    {
+        "championId": "Kassadin",
+        "championName": "Кассадин",
+        "gender": "Мужской",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Создание Бездны"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Шурима",
+            "Бездна"
+        ],
+        "release_date": "2009-08-07"
+    },
+    {
+        "championId": "Katarina",
+        "championName": "Катарина",
+        "gender": "Женский",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Без маны",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Ноксус"
+        ],
+        "release_date": "2009-09-19"
+    },
+    {
+        "championId": "Kayle",
+        "championName": "Кейл",
+        "gender": "Женский",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией",
+            "Аспект"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний",
+            "Дальний"
+        ],
+        "regions": [
+            "Демасия",
+            "Таргон"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Kayn",
+        "championName": "Каин",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Даркин",
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Иония",
+            "Рунтерра",
+            "Ноксус",
+            "Шурима"
+        ],
+        "release_date": "2017-07-12"
+    },
+    {
+        "championId": "Kennen",
+        "championName": "Кеннен",
+        "gender": "Мужской",
+        "positions": [
+            "Топ",
+            "Мид"
+        ],
+        "species": [
+            "Йордл"
+        ],
+        "resource": "Энергия",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2010-04-08"
+    },
+    {
+        "championId": "Khazix",
+        "championName": "Ка'Зикс",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Создание Бездны"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Бездна"
+        ],
+        "release_date": "2012-09-27"
+    },
+    {
+        "championId": "Kindred",
+        "championName": "Киндред",
+        "gender": "Другой",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Дух",
+            "Бог"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Рунтерра"
+        ],
+        "release_date": "2015-10-14"
+    },
+    {
+        "championId": "Kled",
+        "championName": "Клед",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Йордл"
+        ],
+        "resource": "Отвага",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Ноксус"
+        ],
+        "release_date": "2016-08-10"
+    },
+    {
+        "championId": "KogMaw",
+        "championName": "Ког'Мао",
+        "gender": "Мужской",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Создание Бездны"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Бездна"
+        ],
+        "release_date": "2010-06-24"
+    },
+    {
+        "championId": "Leblanc",
+        "championName": "Ле Блан",
+        "gender": "Женский",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Ноксус"
+        ],
+        "release_date": "2010-11-02"
+    },
+    {
+        "championId": "LeeSin",
+        "championName": "Ли Син",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Человек",
+            "Спиритуалист"
+        ],
+        "resource": "Энергия",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2011-04-01"
+    },
+    {
+        "championId": "Leona",
+        "championName": "Леона",
+        "gender": "Женский",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Аспект"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Таргон"
+        ],
+        "release_date": "2011-07-13"
+    },
+    {
+        "championId": "Lillia",
+        "championName": "Лиллия",
+        "gender": "Женский",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Дух"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2020-07-22"
+    },
+    {
+        "championId": "Lissandra",
+        "championName": "Лиссандра",
+        "gender": "Женский",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый льдом"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Фрельорд"
+        ],
+        "release_date": "2013-04-30"
+    },
+    {
+        "championId": "Lucian",
+        "championName": "Люциан",
+        "gender": "Мужской",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Демасия",
+            "Острова Теней"
+        ],
+        "release_date": "2013-08-22"
+    },
+    {
+        "championId": "Lulu",
+        "championName": "Лулу",
+        "gender": "Женский",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Йордл"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Бандл-Сити"
+        ],
+        "release_date": "2012-03-20"
+    },
+    {
+        "championId": "Lux",
+        "championName": "Люкс",
+        "gender": "Женский",
+        "positions": [
+            "Мид",
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Демасия"
+        ],
+        "release_date": "2010-10-19"
+    },
+    {
+        "championId": "Malphite",
+        "championName": "Мальфит",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Голем"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Ишталь",
+            "Шурима"
+        ],
+        "release_date": "2009-09-02"
+    },
+    {
+        "championId": "Malzahar",
+        "championName": "Мальзахар",
+        "gender": "Мужской",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Создание Бездны"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Шурима",
+            "Бездна"
+        ],
+        "release_date": "2010-06-01"
+    },
+    {
+        "championId": "Maokai",
+        "championName": "Маокай",
+        "gender": "Мужской",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Дух"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Острова Теней"
+        ],
+        "release_date": "2011-02-16"
+    },
+    {
+        "championId": "MasterYi",
+        "championName": "Мастер Йи",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Человек",
+            "Спиритуалист"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Mel",
+        "championName": "Мэл",
+        "gender": "Женский",
+        "positions": [
+            "Мид",
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Ноксус",
+            "Пилтовер"
+        ],
+        "release_date": "2025-01-23"
+    },
+    {
+        "championId": "Milio",
+        "championName": "Милио",
+        "gender": "Мужской",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Ишталь"
+        ],
+        "release_date": "2023-03-23"
+    },
+    {
+        "championId": "MissFortune",
+        "championName": "Мисс Фортуна",
+        "gender": "Женский",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Билджвотер"
+        ],
+        "release_date": "2010-09-08"
+    },
+    {
+        "championId": "Mordekaiser",
+        "championName": "Мордекайзер",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Ревенант"
+        ],
+        "resource": "Щит",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Ноксус",
+            "Острова Теней"
+        ],
+        "release_date": "2010-02-24"
+    },
+    {
+        "championId": "Morgana",
+        "championName": "Моргана",
+        "gender": "Женский",
+        "positions": [
+            "Мид",
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией",
+            "Аспект"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Демасия",
+            "Таргон"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Naafiri",
+        "championName": "Наафири",
+        "gender": "Женский",
+        "positions": [
+            "Лес",
+            "Мид"
+        ],
+        "species": [
+            "Собака",
+            "Даркин"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Шурима"
+        ],
+        "release_date": "2023-07-19"
+    },
+    {
+        "championId": "Nami",
+        "championName": "Нами",
+        "gender": "Женский",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Вастайи"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Рунтерра",
+            "Билджвотер"
+        ],
+        "release_date": "2012-12-07"
+    },
+    {
+        "championId": "Nasus",
+        "championName": "Насус",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Воин бога"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Шурима"
+        ],
+        "release_date": "2009-10-01"
+    },
+    {
+        "championId": "Nautilus",
+        "championName": "Наутилус",
+        "gender": "Мужской",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Ревенант"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Билджвотер"
+        ],
+        "release_date": "2012-02-14"
+    },
+    {
+        "championId": "Neeko",
+        "championName": "Нико",
+        "gender": "Женский",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Вастайи"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Ишталь"
+        ],
+        "release_date": "2018-12-05"
+    },
+    {
+        "championId": "Nidalee",
+        "championName": "Нидали",
+        "gender": "Женский",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Человек",
+            "Спиритуалист"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний",
+            "Дальний"
+        ],
+        "regions": [
+            "Ишталь"
+        ],
+        "release_date": "2009-12-17"
+    },
+    {
+        "championId": "Nilah",
+        "championName": "Нила",
+        "gender": "Женский",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Билджвотер"
+        ],
+        "release_date": "2022-07-13"
+    },
+    {
+        "championId": "Nocturne",
+        "championName": "Ноктюрн",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Демон",
+            "Дух"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Рунтерра"
+        ],
+        "release_date": "2011-03-15"
+    },
+    {
+        "championId": "Nunu",
+        "championName": "Нуну и Виллумп",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Человек",
+            "Йети"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Фрельорд"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Olaf",
+        "championName": "Олаф",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый льдом"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Фрельорд"
+        ],
+        "release_date": "2010-06-09"
+    },
+    {
+        "championId": "Orianna",
+        "championName": "Ориана",
+        "gender": "Женский",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Голем"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Пилтовер"
+        ],
+        "release_date": "2011-06-01"
+    },
+    {
+        "championId": "Ornn",
+        "championName": "Орн",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Дух",
+            "Бог"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Фрельорд"
+        ],
+        "release_date": "2017-08-23"
+    },
+    {
+        "championId": "Pantheon",
+        "championName": "Пантеон",
+        "gender": "Мужской",
+        "positions": [
+            "Топ",
+            "Лес",
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Аспект"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Таргон"
+        ],
+        "release_date": "2010-02-02"
+    },
+    {
+        "championId": "Poppy",
+        "championName": "Поппи",
+        "gender": "Женский",
+        "positions": [
+            "Топ",
+            "Поддержка"
+        ],
+        "species": [
+            "Йордл"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Демасия"
+        ],
+        "release_date": "2010-01-13"
+    },
+    {
+        "championId": "Pyke",
+        "championName": "Пайк",
+        "gender": "Мужской",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Ревенант"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Билджвотер"
+        ],
+        "release_date": "2018-05-31"
+    },
+    {
+        "championId": "Qiyana",
+        "championName": "Киана",
+        "gender": "Женский",
+        "positions": [
+            "Лес",
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Ишталь"
+        ],
+        "release_date": "2019-06-28"
+    },
+    {
+        "championId": "Quinn",
+        "championName": "Квинн",
+        "gender": "Женский",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Демасия"
+        ],
+        "release_date": "2013-03-01"
+    },
+    {
+        "championId": "Rakan",
+        "championName": "Рэйкан",
+        "gender": "Мужской",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Вастайи"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2017-04-19"
+    },
+    {
+        "championId": "Rammus",
+        "championName": "Раммус",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Неизвестно"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Шурима"
+        ],
+        "release_date": "2009-07-10"
+    },
+    {
+        "championId": "RekSai",
+        "championName": "Рек'Сай",
+        "gender": "Женский",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Создание Бездны"
+        ],
+        "resource": "Ярость",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Шурима",
+            "Бездна"
+        ],
+        "release_date": "2014-12-11"
+    },
+    {
+        "championId": "Rell",
+        "championName": "Релл",
+        "gender": "Женский",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией",
+            "Изменённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Ноксус"
+        ],
+        "release_date": "2020-12-10"
+    },
+    {
+        "championId": "Renata",
+        "championName": "Рената Гласк",
+        "gender": "Женский",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый химией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Заун"
+        ],
+        "release_date": "2022-02-17"
+    },
+    {
+        "championId": "Renekton",
+        "championName": "Ренектон",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Воин бога"
+        ],
+        "resource": "Неистовство",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Шурима"
+        ],
+        "release_date": "2011-01-18"
+    },
+    {
+        "championId": "Rengar",
+        "championName": "Ренгар",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Вастайи"
+        ],
+        "resource": "Свирепость",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Ишталь",
+            "Шурима"
+        ],
+        "release_date": "2012-08-21"
+    },
+    {
+        "championId": "Riven",
+        "championName": "Ривен",
+        "gender": "Женский",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Без маны",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Иония",
+            "Ноксус"
+        ],
+        "release_date": "2011-09-14"
+    },
+    {
+        "championId": "Rumble",
+        "championName": "Рамбл",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Йордл"
+        ],
+        "resource": "Жар",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Бандл-Сити"
+        ],
+        "release_date": "2011-04-26"
+    },
+    {
+        "championId": "Ryze",
+        "championName": "Райз",
+        "gender": "Мужской",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Рунтерра"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Samira",
+        "championName": "Самира",
+        "gender": "Женский",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Шурима",
+            "Ноксус"
+        ],
+        "release_date": "2020-09-21"
+    },
+    {
+        "championId": "Sejuani",
+        "championName": "Седжуани",
+        "gender": "Женский",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый льдом"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Фрельорд"
+        ],
+        "release_date": "2012-01-17"
+    },
+    {
+        "championId": "Senna",
+        "championName": "Сенна",
+        "gender": "Женский",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Нежить"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Острова Теней"
+        ],
+        "release_date": "2019-11-10"
+    },
+    {
+        "championId": "Seraphine",
+        "championName": "Серафина",
+        "gender": "Женский",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Пилтовер",
+            "Заун"
+        ],
+        "release_date": "2020-10-29"
+    },
+    {
+        "championId": "Sett",
+        "championName": "Сетт",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек",
+            "Вастайи"
+        ],
+        "resource": "Стойкость",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2020-01-14"
+    },
+    {
+        "championId": "Shaco",
+        "championName": "Шако",
+        "gender": "Мужской",
+        "positions": [
+            "Лес",
+            "Поддержка"
+        ],
+        "species": [
+            "Дух"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Рунтерра"
+        ],
+        "release_date": "2009-10-10"
+    },
+    {
+        "championId": "Shen",
+        "championName": "Шен",
+        "gender": "Мужской",
+        "positions": [
+            "Топ",
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Спиритуалист"
+        ],
+        "resource": "Энергия",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2010-03-24"
+    },
+    {
+        "championId": "Shyvana",
+        "championName": "Шивана",
+        "gender": "Женский",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Дракон",
+            "Изменённый магией"
+        ],
+        "resource": "Неистовство",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Демасия"
+        ],
+        "release_date": "2011-11-01"
+    },
+    {
+        "championId": "Singed",
+        "championName": "Синджед",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый химией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Заун",
+            "Пилтовер"
+        ],
+        "release_date": "2009-04-18"
+    },
+    {
+        "championId": "Sion",
+        "championName": "Сион",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Ревенант"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Ноксус"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Sivir",
+        "championName": "Сивир",
+        "gender": "Женский",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Шурима"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Skarner",
+        "championName": "Скарнер",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Брэккерн"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Ишталь"
+        ],
+        "release_date": "2011-08-09"
+    },
+    {
+        "championId": "Smolder",
+        "championName": "Смолдер",
+        "gender": "Мужской",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Дракон"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Камавор",
+            "Ноксус"
+        ],
+        "release_date": "2024-01-31"
+    },
+    {
+        "championId": "Sona",
+        "championName": "Сона",
+        "gender": "Женский",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Демасия",
+            "Иония"
+        ],
+        "release_date": "2010-09-21"
+    },
+    {
+        "championId": "Soraka",
+        "championName": "Сорака",
+        "gender": "Женский",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Небожитель"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Таргон",
+            "Иония"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Swain",
+        "championName": "Свейн",
+        "gender": "Мужской",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Ноксус"
+        ],
+        "release_date": "2010-10-05"
+    },
+    {
+        "championId": "Sylas",
+        "championName": "Сайлас",
+        "gender": "Мужской",
+        "positions": [
+            "Лес",
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Демасия",
+            "Фрельорд"
+        ],
+        "release_date": "2019-01-25"
+    },
+    {
+        "championId": "Syndra",
+        "championName": "Синдра",
+        "gender": "Женский",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2012-09-13"
+    },
+    {
+        "championId": "TahmKench",
+        "championName": "Таам Кенч",
+        "gender": "Мужской",
+        "positions": [
+            "Топ",
+            "Поддержка"
+        ],
+        "species": [
+            "Демон",
+            "Дух"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Билджвотер",
+            "Рунтерра"
+        ],
+        "release_date": "2015-07-09"
+    },
+    {
+        "championId": "Taliyah",
+        "championName": "Талия",
+        "gender": "Женский",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Шурима"
+        ],
+        "release_date": "2016-05-18"
+    },
+    {
+        "championId": "Talon",
+        "championName": "Талон",
+        "gender": "Мужской",
+        "positions": [
+            "Лес",
+            "Мид"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Ноксус"
+        ],
+        "release_date": "2011-08-24"
+    },
+    {
+        "championId": "Taric",
+        "championName": "Тарик",
+        "gender": "Мужской",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Аспект"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Таргон",
+            "Демасия"
+        ],
+        "release_date": "2009-08-19"
+    },
+    {
+        "championId": "Teemo",
+        "championName": "Тимо",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Йордл"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Бандл-Сити"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Thresh",
+        "championName": "Трэш",
+        "gender": "Мужской",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Нежить"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Острова Теней"
+        ],
+        "release_date": "2013-01-23"
+    },
+    {
+        "championId": "Tristana",
+        "championName": "Тристана",
+        "gender": "Женский",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Йордл"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Бандл-Сити"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Trundle",
+        "championName": "Трандл",
+        "gender": "Мужской",
+        "positions": [
+            "Топ",
+            "Лес"
+        ],
+        "species": [
+            "Тролль",
+            "Рождённый льдом"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Фрельорд"
+        ],
+        "release_date": "2010-12-01"
+    },
+    {
+        "championId": "Tryndamere",
+        "championName": "Триндамир",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Неистовство",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Фрельорд"
+        ],
+        "release_date": "2009-05-01"
+    },
+    {
+        "championId": "TwistedFate",
+        "championName": "Твистед Фейт",
+        "gender": "Мужской",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Билджвотер"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "Twitch",
+        "championName": "Твич",
+        "gender": "Мужской",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Крыса",
+            "Изменённый химией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Заун"
+        ],
+        "release_date": "2009-05-01"
+    },
+    {
+        "championId": "Udyr",
+        "championName": "Удир",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Человек",
+            "Спиритуалист"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Фрельорд",
+            "Иония"
+        ],
+        "release_date": "2009-12-02"
+    },
+    {
+        "championId": "Urgot",
+        "championName": "Ургот",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый химией",
+            "Киборг"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Ноксус",
+            "Заун"
+        ],
+        "release_date": "2010-08-24"
+    },
+    {
+        "championId": "Varus",
+        "championName": "Варус",
+        "gender": "Мужской",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Даркин",
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Иония",
+            "Рунтерра",
+            "Шурима"
+        ],
+        "release_date": "2012-05-08"
+    },
+    {
+        "championId": "Vayne",
+        "championName": "Вейн",
+        "gender": "Женский",
+        "positions": [
+            "Топ",
+            "Бот"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Демасия"
+        ],
+        "release_date": "2011-05-10"
+    },
+    {
+        "championId": "Veigar",
+        "championName": "Вейгар",
+        "gender": "Мужской",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Йордл"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Рунтерра",
+            "Бандл-Сити",
+            "Острова Теней"
+        ],
+        "release_date": "2009-07-24"
+    },
+    {
+        "championId": "Velkoz",
+        "championName": "Вел'Коз",
+        "gender": "Мужской",
+        "positions": [
+            "Мид",
+            "Поддержка"
+        ],
+        "species": [
+            "Создание Бездны"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Бездна"
+        ],
+        "release_date": "2014-02-27"
+    },
+    {
+        "championId": "Vex",
+        "championName": "Векс",
+        "gender": "Женский",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Йордл"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Острова Теней",
+            "Бандл-Сити"
+        ],
+        "release_date": "2021-09-23"
+    },
+    {
+        "championId": "Vi",
+        "championName": "Вай",
+        "gender": "Женский",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Пилтовер",
+            "Заун"
+        ],
+        "release_date": "2012-12-19"
+    },
+    {
+        "championId": "Viego",
+        "championName": "Виего",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Нежить"
+        ],
+        "resource": "Без маны",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Острова Теней",
+            "Камавор"
+        ],
+        "release_date": "2021-01-21"
+    },
+    {
+        "championId": "Viktor",
+        "championName": "Виктор",
+        "gender": "Мужской",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Киборг"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Пилтовер",
+            "Заун"
+        ],
+        "release_date": "2011-12-29"
+    },
+    {
+        "championId": "Vladimir",
+        "championName": "Владимир",
+        "gender": "Мужской",
+        "positions": [
+            "Топ",
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Жажда крови",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Ноксус",
+            "Острова Теней",
+            "Камавор"
+        ],
+        "release_date": "2010-07-27"
+    },
+    {
+        "championId": "Volibear",
+        "championName": "Волибир",
+        "gender": "Мужской",
+        "positions": [
+            "Топ",
+            "Лес"
+        ],
+        "species": [
+            "Дух",
+            "Бог"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Фрельорд"
+        ],
+        "release_date": "2011-11-29"
+    },
+    {
+        "championId": "Warwick",
+        "championName": "Варвик",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый химией",
+            "Киборг"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Заун"
+        ],
+        "release_date": "2009-02-21"
+    },
+    {
+        "championId": "MonkeyKing",
+        "championName": "Вуконг",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Вастайи"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2011-07-26"
+    },
+    {
+        "championId": "Xayah",
+        "championName": "Шая",
+        "gender": "Женский",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Вастайи"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2017-04-19"
+    },
+    {
+        "championId": "Xerath",
+        "championName": "Зерат",
+        "gender": "Мужской",
+        "positions": [
+            "Мид",
+            "Поддержка"
+        ],
+        "species": [
+            "Баккай"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Шурима"
+        ],
+        "release_date": "2011-10-05"
+    },
+    {
+        "championId": "XinZhao",
+        "championName": "Ксин Жао",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Демасия",
+            "Иония",
+            "Ноксус"
+        ],
+        "release_date": "2010-07-13"
+    },
+    {
+        "championId": "Yasuo",
+        "championName": "Ясуо",
+        "gender": "Мужской",
+        "positions": [
+            "Топ",
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Поток",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2013-12-13"
+    },
+    {
+        "championId": "Yone",
+        "championName": "Ёнэ",
+        "gender": "Мужской",
+        "positions": [
+            "Топ",
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Без маны",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2020-08-06"
+    },
+    {
+        "championId": "Yorick",
+        "championName": "Йорик",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Острова Теней"
+        ],
+        "release_date": "2011-06-22"
+    },
+    {
+        "championId": "Yunara",
+        "championName": "Юнара",
+        "gender": "Женский",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек",
+            "Спиритуалист"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2025-07-16"
+    },
+    {
+        "championId": "Yuumi",
+        "championName": "Юми",
+        "gender": "Женский",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Кот",
+            "Изменённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Бандл-Сити"
+        ],
+        "release_date": "2019-05-14"
+    },
+    {
+        "championId": "Zaahen",
+        "championName": "Заахен",
+        "gender": "Мужской",
+        "positions": [
+            "Топ"
+        ],
+        "species": [
+            "Даркин",
+            "Человек"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Шурима",
+            "Иония"
+        ],
+        "release_date": "2025-11-19"
+    },
+    {
+        "championId": "Zac",
+        "championName": "Зак",
+        "gender": "Мужской",
+        "positions": [
+            "Лес"
+        ],
+        "species": [
+            "Голем"
+        ],
+        "resource": "Здоровье",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Заун"
+        ],
+        "release_date": "2013-03-29"
+    },
+    {
+        "championId": "Zed",
+        "championName": "Зед",
+        "gender": "Мужской",
+        "positions": [
+            "Лес",
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Изменённый магией"
+        ],
+        "resource": "Энергия",
+        "range_type": [
+            "Ближний"
+        ],
+        "regions": [
+            "Иония"
+        ],
+        "release_date": "2012-11-13"
+    },
+    {
+        "championId": "Zeri",
+        "championName": "Зери",
+        "gender": "Женский",
+        "positions": [
+            "Бот"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Заун"
+        ],
+        "release_date": "2022-01-20"
+    },
+    {
+        "championId": "Ziggs",
+        "championName": "Зиггс",
+        "gender": "Мужской",
+        "positions": [
+            "Мид",
+            "Бот"
+        ],
+        "species": [
+            "Йордл"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Заун"
+        ],
+        "release_date": "2012-02-01"
+    },
+    {
+        "championId": "Zilean",
+        "championName": "Зилеан",
+        "gender": "Мужской",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Рождённый магией"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Рунтерра",
+            "Икатия",
+            "Шурима"
+        ],
+        "release_date": "2009-04-18"
+    },
+    {
+        "championId": "Zoe",
+        "championName": "Зои",
+        "gender": "Женский",
+        "positions": [
+            "Мид"
+        ],
+        "species": [
+            "Человек",
+            "Аспект"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Таргон"
+        ],
+        "release_date": "2017-11-21"
+    },
+    {
+        "championId": "Zyra",
+        "championName": "Зайра",
+        "gender": "Женский",
+        "positions": [
+            "Поддержка"
+        ],
+        "species": [
+            "Человек",
+            "Растение"
+        ],
+        "resource": "Мана",
+        "range_type": [
+            "Дальний"
+        ],
+        "regions": [
+            "Ишталь"
+        ],
+        "release_date": "2012-07-24"
+    }
+]
