@@ -3,16 +3,22 @@
 .modes {
     &__inner {
         padding-bottom: fluid(50, 40);
+
+        @include mobile {
+            padding-bottom: rem(120);
+        }
+
         &--end {
-            padding-bottom: 0;
+            padding-bottom: rem(40);
         }
     }
 
     &__list {
         display: flex;
-        column-gap: fluid(80, 30);
+        column-gap: fluid(80, 20);
         justify-content: center;
         padding: rem(8);
+
     }
 
     &__item {
@@ -45,6 +51,15 @@
             align-items: center;
             @include hide;
 
+
+            @include mobile {
+                flex-direction: column;
+
+                left: 53%;
+                translate: -50% 0%;
+                top: 110%;
+            }
+
             & svg path {
                 transition: var(--transition-duration);
             }
@@ -52,6 +67,10 @@
 
         &-type {
             font-size: rem(12);
+
+            @include mobile {
+                padding: fluid(8, 6);
+            }
         }
 
         @include hover {

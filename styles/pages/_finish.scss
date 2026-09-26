@@ -18,7 +18,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        max-width: fluid(750, 300);
+        max-width: fluid(750, 330);
         padding: fluid(64, 48);
         background-color: var(--color-black-75);
         border-radius: fluid(16, 12);
@@ -39,6 +39,10 @@
             flex-direction: column;
             align-items: center;
             row-gap: fluid(16, 12);
+
+            @include mobile {
+                text-align: center;
+            }
         }
     }
 

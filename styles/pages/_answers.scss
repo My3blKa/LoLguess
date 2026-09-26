@@ -6,6 +6,31 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+        overflow-x: auto;
+        padding-bottom: rem(10);
+        padding-inline: 0;
+        margin-inline: rem(15);
+
+        @include mobile {
+            align-items: start;
+        }
+    }
+
+    & .container::-webkit-scrollbar {
+        height: rem(10);
+    }
+
+    & .container::-webkit-scrollbar-track {
+        background: var(--color-text-35);
+    }
+
+    & .container::-webkit-scrollbar-thumb {
+        background: var(--color-text-85);
+        border-radius: rem(6);
+
+        &:hover {
+            background: var(--color-text); // если есть такая переменная
+        }
     }
 
     &__table {
@@ -18,7 +43,7 @@
 
         &-tr {
             display: flex;
-            column-gap: rem(16);
+            column-gap: fluid(16, 8);
             padding-bottom: rem(20);
             align-items: center;
         }
@@ -26,7 +51,7 @@
         &-th {
             display: flex;
             position: relative;
-            width: fluid(100, 80);
+            width: fluid(100, 65);
             height: fluid(70, 50);
             justify-content: center;
             align-items: center;
@@ -59,19 +84,19 @@
 
         &-tr {
             display: flex;
-            column-gap: rem(16);
+            column-gap: fluid(16, 8);
             align-items: center;
         }
 
         &-td {
             display: flex;
             position: relative;
-            @include square(#{fluid(100, 80)});
+            @include square(#{fluid(100, 65)});
             justify-content: center;
             align-items: center;
             text-align: center;
             color: var(--color-white);
-            font-size: rem(16);
+            font-size: fluid(16, 12);
             font-weight: 500;
             transition: var(--transition-duration);
 

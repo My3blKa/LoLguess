@@ -6,23 +6,38 @@
     &__inner {
         position: relative;
         display: flex;
-        column-gap: fluid(100, 50);
+        column-gap: fluid(100, 20);
         align-items: center;
         justify-content: center;
+
+        @include mobile {
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+
+            .header__logo {
+                order: -1;
+                flex-basis: 100%;
+                text-align: center;
+                align-self: center;
+                justify-self: center;
+            }
+        }
     }
 
     &__logo {
-        font-size: fluid(90, 40);
+        display: block;
+        font-size: fluid(90, 30);
         font-family: "Cinzel";
         font-weight: 700;
         color: var(--color-accent-secondary);
     }
 
     &__settings-btn {
-        @include square(#{fluid(64, 40)});
+        @include square(#{fluid(64, 28)});
 
         & svg {
-            @include square(#{fluid(64, 40)});
+            @include square(#{fluid(64, 28)});
         }
 
         @include hover {

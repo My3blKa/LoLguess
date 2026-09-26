@@ -1,5 +1,9 @@
 @use '../helpers' as *;
 
+// * {
+//     scrollbar-color: var(--color-primary) var(--color-text-10);
+// }
+
 body {
     font-family: var(--font-family-base);
     @include fluid-text(20, 14);
