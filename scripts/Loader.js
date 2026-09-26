@@ -5,9 +5,9 @@ class Loader {
         settingModalPlaceholder: '.setting-modal'
     }
     statePaths = {
-        headerPath: '/components/header.html',
-        footerPath: '/components/footer.html',
-        settingModalPath: '/components/setting-modal.html'
+        headerPath: '/LoLguess/components/header.html',
+        footerPath: '/LoLguess/components/footer.html',
+        settingModalPath: '/LoLguess/components/setting-modal.html'
     }
 
     constructor() {
